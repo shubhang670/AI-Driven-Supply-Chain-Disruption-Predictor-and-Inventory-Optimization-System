@@ -1,17 +1,22 @@
 # AI-Driven-Supply-Chain-Disruption-Predictor-and-Inventory-Optimization-System
-My first Project of AI and ML
-Goals: Leverage AI and machine learning to address challenges in supply chain management, including disruptions and inefficiencies.Use global supply chain data and predictive analytics to anticipate risks before they impact operations.Dynamically adjust inventory levels to mitigate risks and ensure continuity of operations.Ensure stakeholders and warehouse owner's receive timely information about potential disruptions and necessary adjustments.
+In today's interconnected global economy, supply chains face numerous challenges, including natural disasters, geopolitical instability, and unexpected demand fluctuations. These disruptions can have significant negative impacts on businesses, leading to stockouts, increased costs, and damaged brand reputation. To address these challenges, businesses need a proactive and intelligent approach to supply chain management.
+This project aims to develop a cutting-edge AI-powered system that provides real-time insights and predictive capabilities to optimize supply chain operations. By leveraging the power of Large Language Models (LLMs) like OpenAI GPT and Meta LLaMA, the system will analyze vast amounts of data, including news articles, social media feeds, and internal company data, to identify potential risks and disruptions. Natural Language Processing (NLP) techniques will be employed to extract relevant information and generate actionable insights from unstructured data.
+Furthermore, the system will be integrated with Google Sheets to facilitate data collection, analysis, and visualization. Real-time alerts will be delivered via Slack or Email, enabling decision-makers to quickly respond to emerging threats and implement appropriate mitigation strategies. By proactively identifying and mitigating risks, optimizing inventory levels, and improving overall supply chain resilience, this system will empower businesses to navigate the complexities of the global market and maintain a competitive advantage.
 
-The objective is to utilize natural language processing (NLP) via large language models (LLMs) like OpenAI GPT to analyze diverse data sources such as news,supplier updates,and transportation trends.
+Milestone 1: Introduction & Initial Training
+Timeline: Weeks 1-2
+Objective:
+To establish the project foundation by setting up the development environment, familiarizing the team with key technologies, and gathering initial data for model training.
+The development environment will be set up by configuring access to necessary APIs, establishing a secure and collaborative project workspace (e.g., GitHub repository), and setting up the infrastructure for data storage and processing.
+Initial data will be collected from diverse sources such as news articles (e.g., financial news, industry publications), social media feeds (relevant to global supply chain events), and supplier information (e.g., location, financial health, past performance). To facilitate this process, development tools and libraries will be set up, including Google Colab for cloud-based processing, Python for scripting, Natural Language Processing (NLP) libraries for text analysis, and data analysis tools for efficient data exploration.
 
-Milestone 1:
+Milestone 2: 
+Timeline: Weeks 3-4
+Choosing a product to work for analysis eg Tea:
+Tea represents a complex global supply chain with significant vulnerability to weather events (monsoon patterns), political instability in producing countries, and fluctuating demand, making it an ideal candidate for this analysis.    
+Data will be collected from various sources (APIs, databases) using automated Python scripts. Data will then be cleaned, transformed (e.g., unit conversions, data type conversions), and stored in a structured format (e.g., a relational database or CSV files) for efficient analysis and further processing.
+Data will be prepared for LLM training by selecting relevant features, engineering new features, and preprocessing the data (e.g., tokenization, embedding). LLMs (like OpenAI GPT-4 or LLaMA) will be utilized to train models to predict key metrics such as risk scores, future prices, and inventory levels. Model performance will be continuously evaluated, and models will be refined using new data and improved training techniques.
 
-To gather data from different data sources related to global supply chain.
-Setting up the environments,tools and libraries for project infrastructure.
-Researching on which pre created LLM models to use in project for predicting and NLP tasks.
 
-Expected Outcomes
-Enhanced ability to anticipate and manage supply chain disruptions.
-Optimized inventory levels to balance cost and risk.
-Reduced losses and increased operational resilience.
+
 
