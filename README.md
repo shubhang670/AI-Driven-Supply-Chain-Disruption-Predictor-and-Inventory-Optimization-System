@@ -12,7 +12,7 @@ Initial data will be collected from diverse sources such as news articles (e.g.,
 
 Milestone 2: 
 Timeline: Weeks 3-4
-"Due to API data collection limitations, ChatGPT was used to generate a synthetic dataset for my tea product project."
+"Due to API data collection limitations and the availability of data locally, a synthetic dataset was generated using ChatGPT for my tea product project of supply chain . This data was directly used for analyzing risk and sentiment, bypassing the need for API fetching."
 Choosing a product to work for analysis eg Tea:
 Tea represents a complex global supply chain with significant vulnerability to weather events (monsoon patterns), political instability in producing countries, and fluctuating demand, making it an ideal candidate for this analysis.    
 Data will be collected from various sources (APIs, databases) using automated Python scripts. Data will then be cleaned, transformed (e.g., unit conversions, data type conversions), and stored in a structured format (e.g., a relational database or CSV files) for efficient analysis and further processing.
