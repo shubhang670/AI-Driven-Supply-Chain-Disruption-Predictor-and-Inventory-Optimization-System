@@ -18,6 +18,10 @@ Tea represents a complex global supply chain with significant vulnerability to w
 Data will be collected from various sources (APIs, databases) using automated Python scripts. Data will then be cleaned, transformed (e.g., unit conversions, data type conversions), and stored in a structured format (e.g., a relational database or CSV files) for efficient analysis and further processing.
 Data will be prepared for LLM training by selecting relevant features, engineering new features, and preprocessing the data (e.g., tokenization, embedding). LLMs (like OpenAI GPT-4 or LLaMA) will be utilized to train models to predict key metrics such as risk scores, future prices, and inventory levels. Model performance will be continuously evaluated, and models will be refined using new data and improved training techniques.
 
+Milestone 3: Weeks 5-6
+Predictive models will be developed utilizing historical data and insights from the data analysis engine. These models will forecast the likelihood and impact of supply chain disruptions (e.g., natural disasters, political instability, transportation delays), predict changes in consumer demand (e.g., seasonality, economic trends), and forecast future inventory levels. Machine learning algorithms, such as time series forecasting and regression models, will be explored for model development.
+Secure and reliable integration will be established with the organization's ERP system (e.g., SAP) through the development of APIs or other suitable mechanisms. This integration will enable seamless data exchange between the AI system and the ERP, facilitating automated inventory adjustments based on the predictive models (e.g., adjusting order quantities, re-routing shipments).
+
 
 
 
