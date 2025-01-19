@@ -1,0 +1,1001 @@
+Region,Month,Year,Tea Supply (tons),Tea Demand (tons),Comment,Sentiment,Sentiment Score,Risk Analysis
+Darjeeling,March,2021,276.18489801240366,275.3492194300964,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,June,2021,341.940994967289,341.21640222172374,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,February,2021,86.67424561887648,83.54378645752246,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,August,2021,293.21216044449943,307.68691011904093,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,March,2021,182.28810559034676,202.1051109537221,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,April,2021,270.25297379399376,279.50436152754065,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,March,2021,124.50030095654937,146.09753734814626,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,January,2021,92.11913423412994,104.42683549472642,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,November,2021,85.517925471942,100.98896380620252,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,February,2021,392.0415026018389,441.554879424104,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,January,2021,312.0836154564641,350.89561880448485,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,April,2021,457.41530960678017,424.1875208903408,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,September,2021,340.5061622702063,321.4315809663857,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,May,2021,220.92293972567992,204.77731033771047,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,February,2021,115.3604539199665,117.65325814923528,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,May,2021,394.2112575503745,421.1295847591506,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,April,2021,61.39952831755109,62.758412172176925,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,April,2021,197.74178019666695,204.95022018606943,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,June,2021,369.8189814786311,357.2306139890906,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,November,2021,399.1990344402327,437.7637358678933,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,December,2021,299.1906515549617,305.79477637504726,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,November,2021,333.08598800086645,320.4422151345354,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,October,2021,52.292706198824575,52.390525226985424,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,March,2021,216.3747652077774,241.4612573104991,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,July,2021,137.8453359231555,139.11390160022654,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,June,2021,265.14459666344914,300.6644161286978,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,July,2021,458.1462766797366,427.268750466428,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,February,2021,357.86967156271817,406.01375321416816,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,October,2021,140.1929824062592,131.8213959460721,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,November,2021,153.3825378787715,165.72291785205357,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,October,2021,98.98588851094368,109.45058045219128,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,November,2021,76.66008874171155,73.01650459141152,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,July,2021,464.62673512614833,532.340391977956,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,March,2021,230.5541349089181,254.9882033592557,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,February,2021,196.0932110744048,214.70261155418328,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,January,2021,424.1102689713127,446.6483631804677,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,April,2021,55.63337408556647,53.17536488062199,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,August,2021,398.5813364174664,397.48572196191327,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,December,2021,77.29040879051571,91.3446038454443,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,June,2021,301.40893191343446,321.91754027472103,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,July,2021,133.35233032777592,143.75267364053752,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,June,2021,387.5837859409983,362.25566727680894,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,August,2021,298.7963866139288,276.2022589659486,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,September,2021,297.63785963177975,334.6062831060815,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,April,2021,159.50434994314347,179.02500057303712,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,April,2021,89.88265513486492,104.64754408430407,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,December,2021,111.66641136019018,129.6084604521034,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,August,2021,418.0744308188608,476.62068521388335,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,February,2021,322.33424567116754,295.4162106737803,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,January,2021,199.00913363300708,228.4374791427805,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,December,2021,218.2248481303502,196.4053006730282,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,January,2021,56.74027275628515,68.04060629552241,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,January,2021,131.32900160848416,146.8625100062017,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,September,2021,365.31312205850566,386.3526382591855,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,September,2021,101.44167716415156,109.19846775268702,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,January,2021,351.4137706434793,346.36525601333346,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,October,2021,312.12486736499625,342.01526289919536,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,January,2021,269.6294187409191,256.99207993420646,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,May,2021,355.5943109986148,375.0976727695201,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,May,2021,230.9643195241703,248.9536771301441,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,March,2021,197.7867362304205,231.42379494831263,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,June,2021,88.676246546362,97.26831523511808,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,October,2021,309.94273153535136,315.67380852846367,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,December,2021,382.3580529923095,425.1197587257418,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,February,2021,335.763365579477,370.80371019061175,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,September,2021,403.1852038015385,411.80942439069736,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,January,2021,251.63090015568932,229.9014777295462,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,February,2021,229.7744391156078,267.00531289779263,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,March,2021,125.68280718222871,132.31201807284003,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,October,2021,128.90072327602743,121.76578869545548,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,September,2021,137.1517811286209,127.67864439359874,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,August,2021,49.39915120439586,49.32325165774545,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,July,2021,185.31128547533345,185.5033636928362,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,October,2021,445.4752438296028,509.5726772664766,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,February,2021,370.7882110861748,428.3142102692673,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,April,2021,302.1734558203029,348.34226071373445,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,December,2021,326.62887261924214,343.56499390693943,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,December,2021,408.6928805174664,398.5947631779669,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,February,2021,84.72428095636278,90.06804713172056,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,August,2021,173.4770393443781,165.14387058210875,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,May,2021,334.02364978790433,385.96722650217737,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,October,2021,70.63535667938514,65.17974252040025,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,February,2021,310.6261672825238,346.06212851606523,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,March,2021,310.7041542225571,337.97376312988325,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,April,2021,254.96591306153096,290.48725146955474,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,March,2021,263.4549888325078,253.5938895115838,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,December,2021,79.25416101244737,75.63284134697265,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,May,2021,486.65800132690566,535.7864395759968,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,September,2021,207.26457683301285,243.73955945207496,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,June,2021,298.03501283957104,332.2694613699118,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,December,2021,244.86934206768169,227.6863542566375,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,December,2021,115.7584031605824,104.68271566772076,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,June,2021,107.2134258424494,104.53075221076108,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,December,2021,129.2580955943459,120.0848577015292,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,July,2021,260.7870392311087,311.1862607311222,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,October,2021,211.2691394175202,251.787731488545,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,November,2021,272.375127186884,322.23203899186484,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,February,2021,189.7176031607237,217.5409919142764,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,August,2021,122.63734397325358,129.79809738839876,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,August,2021,210.258919792901,214.2401350391468,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,October,2021,364.0838944464965,385.896697733507,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,January,2021,171.50165180331476,176.14616691324866,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,July,2021,166.98937657410687,199.8599394410944,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,February,2021,310.0006718645593,329.7920411717243,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,June,2021,227.6868459806448,238.7768962971465,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,January,2021,48.35429131817859,46.47829283506739,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,January,2021,213.2967302057145,237.70788936995004,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,February,2021,88.5728279447113,93.9500492277645,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,January,2021,132.22354905582964,145.79657162838882,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,February,2021,93.15024365826169,91.95562001165683,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,August,2021,262.6153112657859,243.34422824608868,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,July,2021,366.54935197223,373.4099437731588,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,April,2021,249.84652018898984,225.0475572255203,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,January,2021,326.9654388462146,306.1814254748607,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,May,2021,216.3131047672244,203.3209225547641,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,June,2021,126.97554471247332,117.68244743068132,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,August,2021,133.87324181143157,157.84633990555304,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,December,2021,383.2034946817198,424.1702930996803,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,April,2021,355.81153744901474,324.79528736068386,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,July,2021,129.7538780424531,134.38693050393348,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,February,2021,282.74426010446984,319.0784173890496,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,June,2021,402.8272011851441,465.3933602990232,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,April,2021,54.35499609039679,55.52874492686268,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,September,2021,343.4701008909892,384.7247402519637,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,January,2021,174.7711513841601,199.27780335698165,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,January,2021,284.59449415522766,304.4178176046669,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,March,2021,430.0837547797494,432.3119063306461,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,December,2021,277.13422009749144,320.4963773599784,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,January,2021,416.8731314567758,442.94908363941306,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,January,2021,257.535941331273,281.0663336696639,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,April,2021,194.46790233058545,221.8996976267348,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,December,2021,83.70393272244901,85.88292884698517,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,October,2021,57.84312983245459,57.96023207318456,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,August,2021,375.834191017278,395.0908337651314,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,August,2021,282.3480432649124,306.1510526287315,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,January,2021,140.4513486785602,141.4621942254879,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,November,2021,54.13744881717014,62.09946865223933,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,March,2021,433.9482819374945,453.3719341224005,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,October,2021,195.4103211598164,200.61635717402007,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,June,2021,379.76147797574,426.14714321604015,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,November,2021,170.30111961353862,173.96938401086473,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,October,2021,468.6796604823847,550.9921489557921,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,June,2021,343.08710081417814,349.9404750111436,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,August,2021,53.416466500729975,49.8054737792058,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,June,2021,453.6066233980159,434.0739012935132,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,December,2021,304.5917392584517,301.60201065248407,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,February,2021,51.9821299809285,52.94647189560399,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,May,2021,446.0412104963005,461.320857974319,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,March,2021,289.29366446898206,295.25918702500417,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,September,2021,193.44292634624787,204.36016106789347,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,March,2021,422.7331970798942,391.055667944755,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,May,2021,348.2278068872797,338.12023849356046,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,June,2021,386.7539898726279,351.9697298854596,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,August,2021,187.5754512446484,175.41004562772807,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,May,2021,283.24512244507326,287.15852976410537,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,April,2021,212.52052445342343,203.5450228670187,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,April,2021,322.12272564802186,384.28563749942816,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,August,2021,199.13125396672356,215.2471731947952,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,February,2021,212.3099059531966,242.6590101873808,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,April,2021,287.53824047382284,312.1400221825642,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,March,2021,334.42524447459846,306.03872902333234,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,June,2021,77.7921018789432,88.20825720201154,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,May,2021,141.56359499611904,157.3140555790762,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,October,2021,288.58011507873647,319.3840039504863,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,December,2021,191.03241385979663,175.0478006137235,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,September,2021,86.05092917467752,101.58295802774876,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,April,2021,148.9332332269107,145.80618866110655,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,January,2021,249.83999074994043,242.50824516756472,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,November,2021,313.8474658490409,346.4612274315604,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,March,2021,45.53800979601729,45.37770651421432,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,July,2021,97.3069149894608,105.8492222803605,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,November,2021,73.61104230113702,81.62910933744787,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,November,2021,381.9925085886764,408.16924495067263,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,June,2021,359.4628088349388,349.804811313412,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,November,2021,381.901259164493,369.0017191744792,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,June,2021,211.1186759002252,240.34092246733377,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,June,2021,163.86804599634198,167.93720994437442,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,October,2021,289.66285855075864,306.9144799859085,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,March,2021,265.7603758737298,274.59833435955704,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,September,2021,64.24951428749141,59.74607247379257,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,March,2021,394.6851524892524,362.9231349399468,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,April,2021,172.9364255661376,162.98135292443,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,October,2021,306.7573290522614,310.4958775763595,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,August,2021,381.95749582095954,453.2214978941665,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,August,2021,62.85919525824293,61.37589735125735,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,December,2021,251.8269789079728,251.54223355492343,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,August,2021,93.60113966138373,98.52198689115386,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,January,2021,79.83324563082566,94.66977694827769,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,July,2021,92.36112249310696,104.45889239953212,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,October,2021,360.3290996260474,393.3760119512648,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,January,2021,372.6818549830688,366.8584460276678,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,February,2021,367.8650412450937,391.0995949036889,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,September,2021,296.8202833300897,270.7597972782604,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,October,2021,221.5699453151529,249.18230020091215,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,January,2021,271.5152311034867,247.23762631516664,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,June,2021,280.68030833602126,257.8570506339942,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,May,2021,73.63025711334379,69.21859099817958,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,April,2021,310.3226092542384,326.70416994410897,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,July,2021,112.0092085018481,111.57585225340554,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,December,2021,70.9876575745883,80.90055475303099,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,January,2021,392.3123507433712,398.49173354299785,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,December,2021,191.65793949107228,215.169167320078,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,February,2021,255.5829264460353,269.1289407317044,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,November,2021,285.17265808101683,258.63690610421384,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,September,2021,78.06043454375148,78.93273402107619,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,February,2021,310.4147434239259,308.3045208298278,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,February,2021,59.38747688833934,55.10929451613483,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,September,2021,89.15538523065585,88.01535868402078,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,May,2021,121.65664576543531,133.65432175262535,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,February,2021,170.2267503980595,199.44150804351156,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,July,2021,368.3994596006335,346.00339285036256,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,January,2021,446.5289719326444,509.29375256703344,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,March,2021,104.22816795547152,102.4044833086135,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,April,2021,148.24129292298636,149.68978713115132,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,August,2021,318.9056609122898,291.96184059534187,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,October,2021,181.60269346223683,164.35053825260343,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,November,2021,482.6653459770021,523.7501878255204,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,February,2021,80.24398945078323,84.01464337923768,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,August,2021,161.5994290393109,188.60005923868283,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,May,2021,136.71364147374717,139.5511643958188,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,January,2021,244.1723893478436,230.0462890479263,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,August,2021,305.819748330056,358.6396675558405,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,June,2021,60.48096217747607,67.97929443911615,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,December,2021,379.2971582473919,352.67862389883464,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,June,2021,61.04007447827806,64.55963388690603,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,January,2021,67.44818304595252,71.10236196616025,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,September,2021,186.89448424443376,182.90089386340708,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,July,2021,140.02384171920644,144.77004020536276,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,February,2021,50.35526490976631,46.14152298025967,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,February,2021,418.72841628004255,497.07885123167216,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,June,2021,397.72999497636414,387.13711186535664,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,January,2021,368.83876668219966,408.24274344758993,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,January,2021,148.23886589089958,168.8136757561004,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,September,2021,416.1300847427866,430.9700188913049,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,May,2021,278.48690756321963,305.9191595870889,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,August,2021,279.23508440843574,314.17775882029764,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,September,2021,404.75707019513055,382.03427968065,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,July,2021,248.7247486144493,286.782992822908,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,April,2021,139.97368685820786,145.53944165463616,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,July,2021,118.03587776559029,127.42624636244348,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,January,2021,85.57311885505588,86.37519202814981,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,December,2021,91.46715600783982,89.73089251501698,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,August,2021,238.81940247019156,283.609555478332,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,July,2021,452.8444361065157,451.9791242082788,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,April,2021,262.9682626413407,304.88834038683166,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,July,2021,110.69918728601488,112.80223152111589,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,February,2021,124.11491787294074,145.90772107497494,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,December,2021,162.77060429577935,181.47883289705533,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,March,2021,319.5880483761916,291.9769201634055,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,September,2021,233.28815643674128,217.25549681729132,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,June,2021,150.3070929362476,176.466802313595,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,December,2021,296.27424323752206,325.885233458754,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,July,2021,193.56479730799185,218.76798623506443,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,April,2021,230.3353079645665,263.63846495017026,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,February,2021,156.94997812355118,183.5016212863237,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,September,2021,181.5913920979766,176.6212998586838,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,July,2021,304.1424961796737,315.30192196502526,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,September,2021,81.0359495045266,90.26142675523045,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,April,2021,324.98337056114167,308.8121614886912,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,July,2021,80.85642517084982,88.0786236983512,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,September,2021,178.57098181196494,165.3549166423488,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,January,2021,181.14818155118127,170.8111367508052,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,January,2021,359.29591259175646,355.12826307618894,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,August,2021,242.0197210646172,246.1260076929836,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,June,2021,189.2340814032648,195.3314500154009,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,February,2021,205.7706011038968,189.70116013589063,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,January,2021,72.14898961066234,66.61853442570117,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,February,2021,137.34459169846957,145.5820903008648,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,September,2021,80.67944995281655,93.1742425629685,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,March,2021,200.1217735096176,224.66223292922115,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,April,2021,270.85579907029734,276.5695764822691,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,October,2021,354.33393738595646,401.1953247893255,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,June,2021,352.16107415764225,417.5183520164948,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,September,2021,163.15521403788716,169.40514234111893,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,July,2021,303.3921254230664,360.0590684974556,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,April,2021,394.0735075554534,390.9836875994384,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,June,2021,444.0164636004068,526.1371513447583,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,April,2021,342.181030016729,323.49880084057446,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,July,2021,143.70177051511456,162.57607033161835,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,November,2021,84.41785826559305,91.81653489689644,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,May,2021,246.80824064552905,245.07691979541988,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,January,2021,337.2385483851404,309.3551393316367,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,March,2021,410.1704830206462,432.6550766700252,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,July,2021,286.52199594671447,334.19387724383046,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,August,2021,60.159624817799845,56.2906910516999,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,November,2021,126.58317548051926,144.3973458180638,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,March,2021,244.001097308121,284.39157620709346,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,December,2021,323.2320885652113,341.55469728200063,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,September,2021,55.05405279635514,57.36392420641859,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,October,2021,187.1611877655509,174.52205503754212,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,March,2021,397.0163147184689,385.2570148366408,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,September,2021,277.639076859239,296.1443235469281,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,January,2021,361.948860660447,401.20711928968,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,August,2021,241.30545986076,278.656836301924,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,May,2021,120.11966866037233,124.7827101745046,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,December,2021,386.3900008959802,432.4197635707659,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,August,2021,58.32444886228119,57.2216917423248,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,August,2021,122.66221482044746,142.2383876522662,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,March,2021,430.038792205221,487.3863913975172,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,September,2021,125.34647057167965,141.2721322545217,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,September,2021,94.94401211665328,95.01871958432328,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,May,2021,432.8694777850667,438.4849431806375,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,February,2021,343.70143964912944,393.9827844779605,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,May,2021,475.6056534166796,487.2388280081425,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,July,2021,418.0882446472788,448.93635166496136,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,September,2021,222.73660219465012,252.3619624225224,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,November,2021,66.14136347036282,70.46407246069658,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,April,2021,341.3509679144661,397.6185818044502,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,April,2021,208.7500906590751,200.9532140890406,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,November,2021,408.75544615024967,398.33375430001786,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,March,2021,204.9145026731113,193.4161339818187,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,April,2021,314.5144222705591,342.0191481126741,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,June,2021,148.0723057694596,141.95097744515346,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,April,2021,348.2237437814903,408.363572522494,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,June,2021,184.91779989200063,178.44691542036713,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,August,2021,377.4589558207798,368.8012917723807,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,December,2021,261.56160868338293,289.2695233093851,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,October,2021,492.6197833640777,486.07639159777887,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,June,2021,255.0964607838561,254.01598247071112,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,April,2021,267.7759106004151,260.67967408147035,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,August,2021,419.5823917719502,485.6309112160197,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,December,2021,338.16517150342344,338.25314074640016,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,December,2021,265.7737453155703,318.6364332587537,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,August,2021,196.2124896574318,211.1657778294052,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,June,2021,262.2001110931894,297.05579201369176,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,June,2021,97.07310133376627,102.6003284153677,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,April,2021,308.86904090090314,291.3898023210682,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,May,2021,120.21843741014244,129.54960820837454,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,November,2021,53.0798929921196,59.97023243936231,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,January,2021,304.4145202017827,299.4146427666872,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,August,2021,166.78694605252505,160.34521408294873,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,November,2021,275.9629397172503,291.87352498323924,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,July,2021,172.94989977782578,199.59734148683012,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,July,2021,158.1009238571562,189.47007080793531,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,December,2022,166.03008374371234,188.83868958953204,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,December,2022,245.74704091593105,222.8278775120791,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,January,2022,62.663104249770434,67.30473163584172,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,October,2022,414.02292640617264,464.329411884772,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,November,2022,181.74721569853384,182.48717765040655,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,November,2022,272.47079924201546,286.63723559223666,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,April,2022,251.63891443770757,300.9513967693691,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,May,2022,184.03471889158524,197.6053191389281,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,November,2022,327.9489988079629,366.1937756969869,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,July,2022,110.99304883144124,107.064859644164,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,March,2022,391.6933930047307,387.0742261764572,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,March,2022,355.8658638647385,369.0952985647856,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,June,2022,247.2334165359696,234.41251973690453,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,April,2022,405.772140953621,478.3541692948392,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,January,2022,387.8366969590861,457.18666140576863,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,June,2022,200.5993035956056,239.07865670159111,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,August,2022,122.04851555023416,123.01896028128006,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,February,2022,191.44682518704568,218.1414113301864,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,January,2022,59.37103976023378,64.84676722734909,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,December,2022,61.98402006066459,65.35582746788829,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,February,2022,217.9754282558469,224.36494574784243,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,May,2022,277.8410057667999,268.48640931038545,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,February,2022,264.7287092314307,296.4908865474451,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,May,2022,373.8228330105318,447.22542350079175,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,October,2022,397.11639654320845,413.3623433493663,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,September,2022,215.14067356531595,222.03512977742471,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,February,2022,354.0456635367308,373.1185095674388,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,December,2022,161.37466967602276,163.41675501025406,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,August,2022,51.27582944871642,59.4795444102592,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,July,2022,101.84708001033148,104.52017062518432,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,June,2022,379.4654910950292,377.17893483459005,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,September,2022,295.0730045962942,313.92418975254856,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,March,2022,244.26589866079425,290.11178990631544,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,February,2022,380.6446336611823,352.8677366201616,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,February,2022,455.9314216548678,526.0587027950222,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,September,2022,445.8087191175832,510.1699213824812,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,May,2022,355.37595685597785,370.3237853261389,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,February,2022,101.7587190864753,106.8430223116943,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,November,2022,102.37737963888672,121.20542297665502,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,January,2022,220.02729266296944,241.482228111383,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,September,2022,124.82720658762553,120.3216902780691,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,July,2022,165.1685182500299,168.2903452242709,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,August,2022,337.78666349829723,346.3480339629218,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,February,2022,76.54192337092431,84.60748080246,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,May,2022,78.79144003779516,94.17822821223793,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,June,2022,142.64506613802195,158.26117955011475,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,September,2022,106.59014644796352,106.51059161627876,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,May,2022,107.00978365516004,99.88597025107542,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,October,2022,384.7832957466901,387.5473568800471,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,October,2022,224.03589583753225,247.22341891548763,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,June,2022,286.28938973156096,289.32134434628125,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,April,2022,104.57737389163135,98.98686950067528,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,December,2022,273.8717204672823,264.09816824105843,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,May,2022,217.7143814805273,198.90698619569224,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,October,2022,355.33255559522024,339.21867019851373,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,July,2022,453.5523946498524,427.64458565769456,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,March,2022,231.8841822933452,239.0384607733636,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,September,2022,207.4999086520629,217.29674552425195,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,May,2022,238.8705435347798,283.19131607058347,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,July,2022,153.12481426627986,165.44797264773723,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,August,2022,394.7546955270946,455.06104244393737,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,July,2022,209.8850551384044,227.2332022565629,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,March,2022,283.1422125204566,268.26479175135154,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,July,2022,395.3303660655994,415.85820737149794,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,March,2022,374.3755379110683,424.1109632319796,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,September,2022,156.39575375219144,180.16135425119597,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,April,2022,183.3494029576576,189.24915204113836,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,July,2022,146.65971186211425,165.89021677108025,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,February,2022,66.49295052336352,74.71240209738251,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,June,2022,93.41032518553848,90.99429085103196,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,January,2022,114.57835634596842,136.5168467110924,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,July,2022,302.92791459280835,281.1217859262512,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,June,2022,297.1731877330966,310.540830757676,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,May,2022,245.18694957317027,235.4000188250775,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,October,2022,57.6250785778127,68.28234163149239,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,June,2022,156.7540035292172,168.18678435622596,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,July,2022,202.38355262359008,234.6986146654234,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,July,2022,118.55461024514256,108.04411717762696,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,November,2022,425.3629128880464,409.6409572922432,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,January,2022,100.1936104574298,110.37360908513028,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,June,2022,256.37757525274964,295.6804148110256,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,May,2022,301.45161801781484,309.87360214729546,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,October,2022,403.7014890389999,479.0086071124513,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,September,2022,265.58402902591286,280.6593974551189,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,December,2022,194.17854357868305,178.65215725409675,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,December,2022,226.3867249281188,247.258067714573,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,January,2022,140.1799856175865,138.03572641328657,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,February,2022,265.9313717790258,293.8333573077799,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,August,2022,392.373261195268,459.9745533422159,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,February,2022,65.96634030610193,60.58747576211725,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,July,2022,471.641277919607,501.5272534053048,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,May,2022,227.1971646372748,249.18742028598032,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,August,2022,179.57737300793983,183.8346556953216,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,February,2022,224.11139266591636,206.38251459923555,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,December,2022,58.58892143637547,60.73213014198862,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,October,2022,207.49575710707427,221.33213507808543,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,August,2022,128.2240187615721,136.1556635918507,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,February,2022,270.424667303929,287.49636588597747,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,March,2022,189.8598504696197,214.8225260934905,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,November,2022,116.71125284457015,105.58572020432892,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,April,2022,254.80840641428344,236.2844864259661,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,August,2022,350.03971506278606,322.2874406835788,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,May,2022,68.5395231389136,71.60083873814733,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,November,2022,135.9532864957444,130.5204379974756,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,November,2022,339.9061843536342,388.54755396041526,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,January,2022,305.436551507994,331.9747263312611,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,April,2022,431.64709825740096,391.2476954343897,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,January,2022,256.38760537859605,307.4222321681991,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,December,2022,128.7592114551583,129.7338523825958,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,April,2022,134.7800958496075,129.95863806920394,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,September,2022,123.2886895462591,146.57943113557408,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,December,2022,225.1867590951109,238.49997507424064,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,September,2022,261.82548578699,309.4882578237276,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,December,2022,343.0629621251148,399.65019345127536,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,March,2022,87.14189914341915,103.56636490149286,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,August,2022,299.2471649496811,325.4206657028175,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,October,2022,283.5250279652114,288.1520564734818,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,October,2022,419.1963402012626,456.742706860228,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,December,2022,144.27152104766645,168.55634417679036,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,September,2022,435.3644563777093,486.7941589547336,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,September,2022,72.23312184251628,67.30772191466649,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,May,2022,62.19541453145209,65.18886762294329,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,December,2022,207.32616124585127,198.59160623088837,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,April,2022,107.84774257939492,104.44623841883364,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,April,2022,451.30261263548886,425.5011241098231,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,February,2022,297.6194165241729,272.38374834038007,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,November,2022,389.8880037737877,373.3193339700848,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,February,2022,95.13162794492,86.05014606808517,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,March,2022,128.83613244411362,126.28080750676646,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,June,2022,302.07551940808247,336.28486731003943,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,August,2022,61.42634506351016,65.71786150889781,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,November,2022,54.88941577683847,57.67929227606781,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,January,2022,58.73561277442551,61.62792524906546,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,February,2022,344.8536647432443,364.029555420132,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,December,2022,213.94696938737349,206.49602516173567,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,September,2022,395.2429967144589,361.3917865691896,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,February,2022,408.0818269046008,379.7595445880239,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,December,2022,201.40487674403784,194.92491057758428,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,February,2022,137.65859683288917,157.61456109228055,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,February,2022,139.79665132248505,145.01587463925182,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,June,2022,105.95696937746033,117.25034979279872,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,December,2022,334.97438967708143,395.10965396707866,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,June,2022,215.04372040760967,223.0728892895912,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,September,2022,211.26141249113635,231.8404483387261,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,May,2022,229.3894299585146,249.40525853184735,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,October,2022,66.35154945820385,62.30758209643143,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,November,2022,150.90650900871037,172.39128482810176,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,April,2022,276.31563331805296,293.21195488983585,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,September,2022,80.53447774430907,77.2522681458668,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,January,2022,233.39883207701368,232.37262944384904,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,November,2022,113.61568875124544,128.73596417354833,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,April,2022,367.0162098404337,371.1143363196544,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,September,2022,463.56304628902194,441.8395583650528,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,December,2022,126.72330800855931,133.57350116515636,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,August,2022,476.6381407937,542.076421049482,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,April,2022,257.85329134378065,259.7923644786586,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,December,2022,308.68577420493546,359.6730366770678,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,November,2022,207.07370781701425,190.6709152729652,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,November,2022,292.23909901228507,291.6098750146896,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,April,2022,379.44422813242807,367.5192931538128,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,August,2022,350.67968670494696,316.91833978601227,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,February,2022,397.0460448326462,424.5080523175696,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,October,2022,380.1542897917989,397.2579511232325,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,April,2022,332.2584014439707,378.8346533059857,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,July,2022,424.2008407353106,493.7733173581135,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,June,2022,60.54180581213454,59.422144387764455,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,January,2022,354.3224949628249,418.95952906694623,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,February,2022,392.694542943808,365.05020159824,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,May,2022,164.41891164004582,165.07789692789157,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,April,2022,112.74732684639386,104.6810616181813,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,September,2022,78.26233671722902,78.3765149840193,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,August,2022,197.63220132143468,229.15070683242092,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,September,2022,275.0977663761597,289.0040087815259,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,August,2022,375.30519270633545,370.94981836309,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,January,2022,258.40817715317274,273.8755479357343,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,November,2022,249.74813379101525,267.11520799272023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,November,2022,303.41093734362016,341.5911119001136,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,August,2022,293.9587651075116,296.85617033780346,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,January,2022,376.6691257713475,447.0094569959001,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,February,2022,227.9472762857361,205.84614422610304,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,November,2022,242.8511054393128,228.28336628619704,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,December,2022,378.19495509960245,347.6987592588757,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,March,2022,116.8324404890988,122.0618351789724,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,February,2022,263.2705712840694,288.8476629895266,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,November,2022,417.1308197523888,485.9733974941015,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,January,2022,207.17472225651588,221.80602719343344,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,June,2022,406.8444721638584,476.1413179764061,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,April,2022,380.6123568180007,346.0830449897391,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,April,2022,156.47698912251468,181.14847319836835,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,September,2022,312.31210071302456,353.09484859648967,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,June,2022,120.3558841876768,113.47491465775332,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,June,2022,180.08617835520414,209.6380494618145,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,December,2022,253.27263373097023,302.6904065911216,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,May,2022,398.5319673492814,376.93160609558447,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,October,2022,228.78860984928224,238.5049421789701,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,June,2022,138.0869420338908,146.74992101383407,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,March,2022,239.62192848912403,220.80856619293127,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,July,2022,220.2483872819943,227.5235054723495,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,January,2022,109.9543113098919,105.56663574822493,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,July,2022,155.29201292757833,163.20282687655993,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,August,2022,86.2975593322456,102.59820842750756,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,August,2022,297.5495075698837,269.1519442664375,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,April,2022,328.40280116852034,388.3457741209138,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,May,2022,323.7370414661234,299.90475460834483,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,September,2022,380.4630185247518,369.5075996354365,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,July,2022,335.781529191432,361.0557403351144,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,October,2022,384.8275886971805,372.965864731512,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,November,2022,179.27580219034488,192.0858256601122,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,January,2022,128.26485103565753,139.03579100279572,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,July,2022,255.37729875841043,266.4786635286303,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,November,2022,107.4577681571098,120.3926947992752,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,May,2022,266.8959224209696,295.6686402598059,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,December,2022,313.9617568614144,344.8128441729112,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,May,2022,90.90469344083247,97.18747949879784,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,March,2022,279.18492596437824,324.53518252535514,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,October,2022,321.70452746745275,364.5164873083151,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,June,2022,158.72778999067532,151.38535987299366,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,December,2022,98.84772183105756,100.6779301902816,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,May,2022,387.12689355993786,394.8476596121682,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,September,2022,372.9254992485883,412.9219848916917,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,January,2022,458.18618907860537,469.48262253072,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,May,2022,47.9768011464313,55.567647099034566,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,July,2022,194.363399301326,202.93849169369227,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,June,2022,402.1478967917255,425.54221419575,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,May,2022,418.9214132668438,477.11793184142255,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,August,2022,131.0000933392955,123.98223920874892,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,May,2022,72.78241447494698,84.47138651613943,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,January,2022,395.6520084300431,463.04975315139166,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,February,2022,396.4692130413085,378.1621592912902,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,March,2022,196.44635239991223,224.36960871810712,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,August,2022,115.3485792128522,126.62412766729456,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,August,2022,107.6238149786001,97.82496984020987,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,September,2022,170.75036896751826,163.4265696198066,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,November,2022,68.80860555638316,64.51833117046039,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,March,2022,339.6505902571103,316.0999501471681,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,October,2022,171.65209076059585,178.9284639462893,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,November,2022,93.2173908872757,92.50662347993229,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,April,2022,105.7950957509194,97.43647000989694,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,November,2022,252.04259219064525,237.4438741348028,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,December,2022,191.79192246772183,189.6662458618906,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,November,2022,381.86567101209175,393.4084924238745,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,November,2022,301.4240670305624,274.5495043828632,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,April,2022,345.943001375227,358.7916942559807,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,October,2022,249.779456032207,296.4043879683824,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,December,2022,358.2133398513674,401.80390214725287,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,October,2022,462.7612494522979,457.4737980405324,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,March,2022,54.03086008400191,57.5282181029819,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,September,2022,58.44745938828235,67.2879170587595,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,October,2022,224.86462276942663,226.25058607288705,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,April,2022,115.87185049443752,130.19417877584397,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,December,2022,392.0437108408293,374.6782967072749,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,February,2022,67.54734211662674,61.0359336160529,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,December,2022,299.67653627497435,306.05099521971187,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,January,2022,77.54436894214732,82.86251715060213,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,July,2022,458.8509205411992,463.5849890899791,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,February,2022,310.8554887679659,361.973593693986,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,January,2022,168.62460870355,180.3038315453623,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,October,2022,183.43607993780523,194.4409387071141,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,October,2022,191.7534063847284,227.0209496141442,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,January,2022,183.05393256010737,216.7388689101948,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,February,2022,463.0771203173021,421.6418416376441,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,March,2022,59.00997071914317,57.87401062543079,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,August,2022,234.06576942792125,256.66781223743016,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,July,2022,275.3700625445192,249.6651657686553,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,October,2022,359.7423534685652,372.9465328076578,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,July,2022,263.91229688641204,263.2378596260742,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,August,2022,255.23097681121388,271.397784414972,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,December,2022,196.3106064131701,200.61260589423767,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,August,2022,142.5174037475674,145.8648220164521,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,January,2022,392.177552910368,364.9771539998313,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,June,2022,252.04418631841216,230.08655085125736,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,October,2022,212.3707871845952,204.6456304331356,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,July,2022,146.39167680141682,169.64595009560597,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,February,2022,182.32552083282795,167.40909741708887,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,December,2022,196.54462548971415,205.4736761648272,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,May,2022,277.06644818756564,249.41390182354863,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,July,2022,151.37459417823118,142.00091180348994,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,August,2022,169.7919236540296,199.7700807392525,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,July,2022,76.56539962615864,84.7899419416315,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,March,2022,309.40542765695216,347.66909734165915,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,May,2022,472.7112052041675,450.5746718056324,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,October,2022,310.75039737784,307.2402918656903,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,August,2022,303.8809085035035,349.56668806984646,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,April,2022,65.11204837937694,71.06548294250962,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,July,2022,413.1017035924426,495.13591718387374,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,November,2022,429.7675415241397,509.1634922532213,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,August,2022,154.2792734729164,180.44485720454009,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,December,2022,386.97365232701566,391.80946746946,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,March,2022,72.1431615790452,84.77874606282165,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,March,2022,325.0851871934325,376.1426626185702,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,March,2022,283.33283919051104,256.09682877956965,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,January,2022,103.36410861668662,107.30709433864943,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,October,2022,157.44645534307583,159.4742290850211,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,October,2022,309.61207342502394,311.8977097283082,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,March,2022,219.00910032957677,219.93538282134665,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,January,2022,232.52745331376912,214.5815506176941,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,October,2022,469.86980212668,458.3695516111011,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,July,2022,351.9804842768381,368.8105057592508,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,May,2022,283.88428145710674,328.3871034516024,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,April,2022,49.15066649017835,45.24737642290757,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,July,2022,156.28783407594503,178.2878669043348,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,December,2022,57.27265508265325,67.25452407326809,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,September,2022,269.41886426867313,257.094175894374,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,May,2022,243.750115902094,263.65067292671256,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,October,2022,155.1258168441861,162.97188650387915,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,October,2022,281.4382076828456,304.09320855932987,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,September,2022,214.5904229830306,218.22288709968376,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,January,2022,274.37899044699844,272.40685897300256,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,June,2022,253.05668265985437,285.8419053527759,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,June,2022,136.86721368689908,142.28304453039877,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,May,2022,482.7929023128287,508.7438882923332,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,September,2022,145.18559770070112,147.0762165885946,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,September,2022,363.8884927338946,420.48700981748186,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,July,2022,231.1569454717917,235.6705749956527,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,November,2022,274.5190828921218,327.73126143064104,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,May,2022,255.16365762475624,291.1627807735076,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,April,2022,385.38165414199744,433.663836937434,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,August,2022,364.56588835792473,347.47036983680897,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,August,2022,247.83799866937235,296.2993468712836,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,October,2022,345.6786093375405,355.5941656941346,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,May,2022,233.9970807511648,223.20787208926808,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,March,2022,83.54604842651611,96.78776019971352,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,January,2022,477.5320437560999,527.650214894898,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,June,2022,270.0702544992652,273.71888258237675,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,June,2022,233.8552101711271,236.38817303997095,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,January,2022,272.98075070911244,278.4650173629223,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,August,2022,388.0237775110664,441.4196296652445,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,January,2022,44.79134322235336,49.54001005768093,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,July,2022,155.54502201358585,167.96916667918623,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,May,2022,281.78104712062503,260.59316438398133,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,June,2022,283.0555368717445,309.1872280518436,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,April,2022,320.2692983982834,343.23258325585306,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,August,2022,440.5364502254343,458.5227777104268,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,March,2022,288.4675546543118,338.4126254025585,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,July,2023,443.7622308754056,422.07582143015935,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,July,2023,279.6297878373825,255.65529799867755,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,June,2023,314.2189363367023,355.98691130977323,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,September,2023,361.4644860724022,382.6850455830316,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,June,2023,99.50629879924574,93.28926731324408,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,January,2023,54.67390110047839,64.7391644802047,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,June,2023,206.1736456960789,232.61834165800784,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,November,2023,361.7196693625079,415.45297485736165,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,June,2023,129.53494009501912,117.96655263188276,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,October,2023,289.4839152717413,324.8886514307448,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,October,2023,201.0137100771444,194.1851951749752,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,June,2023,99.64929243365124,97.964823905994,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,December,2023,81.37734126930671,83.18023234407256,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,February,2023,227.87146443042067,208.50459120700745,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,January,2023,301.98428560637626,293.7410697134272,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,March,2023,432.0187007479904,398.7255135343469,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,August,2023,140.31297686276648,137.57201972907168,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,July,2023,176.6630110801774,199.3876176494686,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,April,2023,377.6869275670383,452.2841627937247,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,October,2023,114.84557846625188,103.65379749722868,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,June,2023,43.63925236037243,45.90614328881562,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,July,2023,351.4687956477555,322.3902432537303,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,May,2023,61.03727791006407,55.74960978580116,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,September,2023,155.15518418255883,143.97460058238917,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,August,2023,254.3702112409836,271.6205500727725,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,April,2023,97.4244204327495,109.83330331276866,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,December,2023,98.73937411975596,103.97189310096756,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,October,2023,368.4400554279445,394.22982983750217,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,November,2023,303.1063964933317,346.6696812665673,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,December,2023,177.04467487798703,212.0054418079373,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,June,2023,352.3845442523098,360.40534304892,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,June,2023,413.3267479666919,494.40384118462936,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,April,2023,200.44888753134043,197.79411012757572,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,June,2023,415.9256478203892,451.5835147095517,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,February,2023,188.22867883106272,176.40392367599705,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,November,2023,255.28388195194773,264.85747912896943,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,February,2023,292.51858983566825,305.29963663844626,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,June,2023,364.8649579236315,369.5382665343634,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,February,2023,51.37444899631682,52.66904307131991,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,December,2023,140.9727282793259,153.3953990736833,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,May,2023,88.29860764669594,91.77406240103942,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,April,2023,262.880078689044,295.6367620384923,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,December,2023,219.96475619498025,256.2687966828372,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,December,2023,377.7069183064832,393.7287783318245,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,February,2023,253.5177491743126,272.9456955969096,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,October,2023,358.30039991519834,354.89883600549143,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,March,2023,402.7476042125865,374.0481097243461,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,October,2023,434.7349754287956,468.91359044241113,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,September,2023,242.85867167350787,237.83703479745196,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,December,2023,410.104943481912,402.00149223123714,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,May,2023,65.30792202106629,65.54626452759953,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,February,2023,69.93711390718565,69.07561452808439,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,June,2023,97.20421397587312,89.98370608935419,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,August,2023,239.3479347626359,281.18561015366726,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,March,2023,153.867423123052,163.35806530170356,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,April,2023,75.76252760443651,81.05198799282803,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,March,2023,385.8092454238911,423.7591362742846,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Nilgiri,September,2023,61.17872374357176,56.73570938234983,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,December,2023,207.85960880475,223.43106582878696,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,November,2023,367.25112249486966,391.07131129047576,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,March,2023,314.4581105625446,313.37037954882385,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,May,2023,319.9312126154899,374.700752088301,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,December,2023,253.52058533689373,240.9182422462609,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,December,2023,286.4645671213958,326.79134811362246,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,May,2023,269.75719372225865,313.45171798064393,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,November,2023,445.4388966287371,442.3559334680472,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,October,2023,56.965358896499005,61.51207781800391,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,September,2023,306.07349846979275,352.5230114547403,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,August,2023,122.03718956600544,142.19726892779053,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,November,2023,407.2085923152813,425.04315859391806,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,November,2023,122.06207123061894,129.82212753090582,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,July,2023,230.4384094322887,256.26947448578085,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,March,2023,330.8580176302798,364.9932879663661,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,August,2023,239.0117559044657,245.27545326618124,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,September,2023,231.73610581612783,223.181837822499,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,December,2023,370.66568658227607,391.3637912653716,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,February,2023,199.4799324956606,204.83054234741715,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,November,2023,49.15369236971641,47.724049417928434,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,June,2023,269.8668486716396,298.46036922865824,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,February,2023,479.8751726095094,512.206353623311,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,January,2023,101.55536390973276,100.88803461916196,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Nilgiri,July,2023,330.72474335213616,396.73956661014506,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,October,2023,95.377406790133,107.18226831198598,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,October,2023,443.4170016096863,519.1161659752327,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,September,2023,92.57832387305233,102.03330417040212,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,December,2023,392.143506432726,454.0137922712185,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,March,2023,366.1010346737043,361.117929598093,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,August,2023,422.9445529678602,381.2885320840277,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,July,2023,246.22037235087257,242.75765539703204,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,March,2023,149.91745863526452,171.78751057172903,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,January,2023,355.50540260735863,356.15183170195814,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,September,2023,421.47204553231495,406.0834391997121,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,October,2023,437.1169763280974,457.89992882035466,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,June,2023,335.4345850879069,306.08547200286654,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,November,2023,212.62438417635624,246.5363059933173,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,June,2023,280.0646153932802,290.8368879186796,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,August,2023,102.7363484493607,99.58354761077754,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,November,2023,237.8877077768821,281.2559340430452,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,February,2023,369.9842893028633,389.8700524885966,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,February,2023,153.61146497631384,158.02235569191393,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,October,2023,321.0071437381655,362.782285576564,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,March,2023,109.20420118480354,100.54758019378284,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,March,2023,99.85336199374473,119.49815963053793,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,May,2023,375.0910335795933,399.64802560673206,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,June,2023,114.21290914488397,103.35541654924208,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,October,2023,355.35433003256344,321.83022837865127,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,September,2023,213.98478513213843,225.93562163084425,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,November,2023,237.88402207175417,220.54839142464616,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,March,2023,443.9813290995894,530.5594561838926,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,April,2023,378.0128557054645,452.6239205385961,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,August,2023,174.63035371554705,172.26312847614753,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,September,2023,249.56570883228352,292.8910649972762,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,August,2023,195.32982887671585,199.1343539860316,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,July,2023,189.54963195258023,221.19046054108023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,January,2023,241.9555772275504,254.94363671527915,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,December,2023,315.9747440202345,321.26833018689695,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,June,2023,247.12989030351085,232.6943298683572,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,December,2023,428.4620729037108,385.8939669033285,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,June,2023,128.1685416015324,145.3398441002846,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,May,2023,205.43664228148324,198.8703260410468,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,May,2023,420.2832048613442,475.2350550165638,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,September,2023,348.7494646995171,414.34045448304704,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,December,2023,390.5981990909512,423.6098379270751,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,June,2023,327.5180234271705,376.4496562999785,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,July,2023,57.4105204662104,54.22058356928967,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,May,2023,83.89324262658529,95.142459735982,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,December,2023,193.5322591822941,187.37246856155903,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,October,2023,68.46434521095172,81.7272503890158,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,November,2023,174.32058863067545,173.01896352339557,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,September,2023,220.4659790562544,214.02664289398817,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,October,2023,418.2586088909964,453.42328950831455,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,December,2023,134.4654573791725,126.47338344610044,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,November,2023,205.89480067432183,243.897235040171,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,February,2023,154.24374309352137,178.30325457734807,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,May,2023,135.50360901280132,151.71269157927009,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,June,2023,322.9890664894546,308.6467933260684,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,March,2023,273.1998623357085,277.1835613879677,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,September,2023,279.1501577987345,322.7950501012932,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,November,2023,325.5213499702027,351.9259968048585,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,July,2023,321.8010161152732,295.75246709370526,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Assam,December,2023,299.7943684971998,331.65401592122004,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,March,2023,364.6701449372134,403.7623821747784,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,November,2023,324.1787382978489,306.2031659026457,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,February,2023,260.7455478996604,297.7418360586566,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,February,2023,238.86413661511145,244.3305711204787,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,September,2023,174.21954048534374,194.67653489140332,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,July,2023,68.16841155723603,66.92607233618226,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,December,2023,288.5796269688744,285.13361914409563,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,December,2023,83.9366095099363,99.24707261991368,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,February,2023,297.57635190961685,271.73627733621595,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,September,2023,126.51375740961043,131.73408694382815,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,December,2023,392.8477328787537,455.67756147106,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,July,2023,318.9499333986249,301.7694176042764,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,March,2023,388.8414033984295,375.6361811095422,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,July,2023,411.53868467213226,464.4323088879241,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,April,2023,55.54213484081888,60.05160831594752,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,September,2023,386.10358043478726,458.68634852725353,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,June,2023,107.9327815419735,127.79843683585548,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,January,2023,112.13506888724244,101.30162083225224,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,July,2023,159.65399290946073,184.77931665623584,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,May,2023,255.2516677440617,239.97040161891175,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,December,2023,273.3134334065559,315.73304418964585,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,February,2023,104.34302587069855,96.38464931434004,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,April,2023,271.5642529098623,299.9883483858474,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,December,2023,176.58810156524615,180.7367499659725,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,February,2023,138.59926231087508,139.04380701092774,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,November,2023,346.4522340447405,388.8964586621467,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,May,2023,145.8876856066142,158.47912890561787,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,July,2023,359.22202319661454,339.31997250775964,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,July,2023,51.904595761581824,55.51572488703397,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,March,2023,394.3225606338952,396.07324743192737,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Tripura,October,2023,353.37576142770894,420.68346637427976,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,March,2023,288.67457806402024,284.8907318157673,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,October,2023,270.090580127042,258.93883817556093,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,February,2023,173.06774081065956,177.18445427812574,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,May,2023,119.85811062826546,141.5270134561296,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,November,2023,366.9635406851772,412.85623834185634,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,July,2023,290.9932670684515,324.6079642188104,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,February,2023,297.6325525434468,348.6368926480151,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,November,2023,462.7145365323804,438.3799005424498,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,May,2023,189.4240313311284,213.88038206628875,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,November,2023,82.17222532113865,95.7129285680168,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,May,2023,230.9511525748313,240.54136255794845,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,September,2023,361.3036970597646,385.6958014991188,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,July,2023,407.9403353251638,441.245544723368,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,May,2023,127.2477741305671,147.789812103985,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,February,2023,57.31136601449828,61.50453496240357,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,September,2023,347.64190700143394,392.2919435710959,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,October,2023,306.54475579557857,341.4683856321337,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,April,2023,436.98693904564817,466.8092942435755,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,February,2023,411.0527853810447,491.5790994988009,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,April,2023,273.0476720634814,255.95435163738475,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,May,2023,369.50347983461705,410.7048352774031,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,October,2023,133.33625327772322,147.9828538123847,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,May,2023,187.0628981887201,174.86003696070034,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,August,2023,104.6004124656304,110.59528307149098,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,September,2023,84.64780748040425,90.98759544155934,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,February,2023,199.7278550302104,198.0582918666303,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,October,2023,437.1443301210925,511.6958808041081,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,September,2023,256.1741972709558,242.7407869978238,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,June,2023,391.45377899249,396.5686091198201,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,August,2023,312.2883142743055,299.5791155724051,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,September,2023,130.41206931889548,129.4965356687689,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,June,2023,111.18833862283265,116.26019257666177,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,March,2023,361.0313886006188,411.2438428351148,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,September,2023,144.93332268916714,148.47581885134102,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,September,2023,203.21212541522448,231.76103079140597,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,December,2023,63.80814457378015,60.132364146762015,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,November,2023,162.6461628622609,185.1671042647685,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,March,2023,264.1583672081167,257.798390881174,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,December,2023,276.5994365996569,305.9616191642164,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,October,2023,374.2473277595801,407.7405682558498,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Assam,August,2023,305.0484007059656,311.89935404913496,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,April,2023,183.42368369642224,182.69525297478856,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,December,2023,234.78434951310464,218.2247702655444,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,September,2023,151.8984619865393,149.14263501532815,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,May,2023,184.08424641455645,200.19525169774943,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,October,2023,217.90535883284815,204.425806913263,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,September,2023,350.8023349415646,367.97157428208914,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,September,2023,291.4152475703679,329.1351006168533,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,May,2023,436.34124726331504,412.5711243555986,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,July,2023,180.98190389564851,192.9975959197552,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,January,2023,308.2053350963611,294.58235825598496,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,November,2023,472.53533561874593,545.6033988456389,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Munnar,June,2023,412.4510674246451,478.5301031083867,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,April,2023,342.3390610776738,367.7419066965598,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,October,2023,172.2471971637601,194.950916346246,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,June,2023,306.15622927942263,348.7705481619213,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,March,2023,327.6887627258072,356.763407653836,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,September,2023,260.74476094898955,251.50065863574207,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,September,2023,249.19196438789305,280.8992481232217,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Wayanad,February,2023,352.0119351438681,385.0215519558927,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,September,2023,47.54880995983136,45.29653238756612,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,June,2023,379.5505031014633,423.3941904027739,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,June,2023,401.76846412139815,459.5331773053538,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,February,2023,94.67917299210843,94.70387822272238,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Dooars,January,2023,289.1906451530639,318.34594533707593,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,January,2023,313.98715651700434,349.0619530660121,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,February,2023,232.4854950384364,214.37526027363663,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,May,2023,289.11256055636835,282.15454584059205,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,September,2023,105.6348534459361,99.40220929337823,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,December,2023,353.2425620423554,326.30501277395274,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,December,2023,396.9612408743299,413.8668053101045,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,June,2023,379.6467254319824,439.5648578187813,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,October,2023,166.66010672457347,176.90062041644546,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,March,2023,127.47898106126904,131.06877323208357,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,July,2023,457.4457130671923,459.1427466740108,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,August,2023,154.6005519339112,164.12058413482686,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,July,2023,258.053871100146,242.3067349339588,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,January,2023,205.3079159570361,244.98130776491655,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,September,2023,419.6990668794468,444.38398327226014,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,May,2023,280.9504268515668,323.4128884113832,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,April,2023,405.792005684862,480.60463595923983,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,March,2023,51.221900912912645,58.86476591291,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,December,2023,265.5580482672228,307.6290573866127,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,May,2023,329.9584445613334,336.3619937122781,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Meghalaya,March,2023,425.6081347094682,476.4644696218618,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,June,2023,192.92557663463705,203.8428640260331,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,March,2023,339.14916725068616,386.48313349317175,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,November,2023,152.95352036370284,178.4026060071621,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,May,2023,276.6405733870856,290.68415713227745,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,November,2023,262.206297124358,249.91497690123697,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,August,2023,397.5262975733202,379.8985214863332,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,April,2023,211.58661005245747,226.37641110083152,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,June,2023,119.5631795478676,130.01472177661745,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,September,2023,414.0816956750169,486.5330072619655,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,April,2023,91.89398020924796,88.90479905463708,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,December,2023,224.0977007403497,265.1714160096641,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,March,2023,136.2467172842046,140.90938253666113,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,January,2023,351.4599244199181,325.9195757441933,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,October,2023,48.403504343384085,57.6395710219868,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Tripura,June,2023,145.50910412951004,133.57356034879567,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Terai,January,2023,196.9811533335875,198.8054769246945,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,November,2023,473.3845421215436,471.4638735083733,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Munnar,October,2023,326.6060621979665,334.21095319167915,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Darjeeling,July,2023,104.5526890865935,96.46880266826253,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,August,2023,48.19600699428133,55.79839912687893,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,February,2023,236.64871982930725,250.4116639213969,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,November,2023,88.29608413847536,85.64816439623665,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,September,2023,266.0388786618683,258.3512691395673,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Terai,April,2023,176.80592512394264,193.50063203019883,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,March,2023,375.4157783442013,409.4166860063525,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,May,2023,347.5502860567753,396.5913895584538,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Darjeeling,February,2023,317.26085412201616,291.1326871724576,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,May,2023,354.4586736311648,409.3681396766698,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,January,2023,445.3430782327548,421.48311277296415,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,May,2023,82.22814537979922,97.84950186005986,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,January,2023,44.13041810600377,42.22583885176801,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Tripura,February,2023,137.68002535385318,125.97471636922766,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,March,2023,82.2715220479667,92.71023323592844,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Darjeeling,January,2023,280.3481702107086,266.39430395171286,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Darjeeling,April,2023,307.36156816310347,325.0655691885308,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Dooars,April,2023,333.0155278876479,395.7740206180938,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,June,2023,382.1123838054871,376.4676752537704,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Nilgiri,May,2023,193.95985706962333,196.52252596062763,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Meghalaya,April,2023,104.04161109988928,94.6940274496676,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Dooars,November,2023,390.8411792625426,353.95916682676,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Darjeeling,October,2023,398.7582233127784,471.07611265904336,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,October,2023,183.07702663114364,166.80446896773714,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,February,2023,91.36086431533184,103.90403141898668,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Wayanad,March,2023,367.7831237988121,352.86401505223216,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Arunachal Pradesh,July,2023,260.64047262602736,276.5997632953581,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Terai,November,2023,143.3630292637804,163.6047108654291,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Dooars,May,2023,279.5116565041281,307.9106462833131,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,August,2023,329.31945185716177,311.95864438642,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Meghalaya,July,2023,402.8920745942034,460.60894201560666,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Munnar,March,2023,363.9583911119264,402.7553531819083,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Arunachal Pradesh,February,2023,163.75718809225188,171.60923656581636,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Munnar,October,2023,317.7723605442693,364.5680630571646,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Assam,November,2023,249.8909396725793,244.80628631540264,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Terai,April,2023,311.9946312330972,312.37347238477776,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,June,2023,304.66990133987133,336.46207679548513,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Wayanad,February,2023,340.6802590831201,379.0592179034067,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,March,2023,232.7547118362692,266.69004411168635,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Meghalaya,April,2023,317.0965276951415,337.0132893918725,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Arunachal Pradesh,August,2023,183.07444233748816,172.34162791704543,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Arunachal Pradesh,July,2023,192.2168918247008,188.71569502408147,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,September,2023,70.11734745106419,77.6928783428026,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Wayanad,August,2023,162.56199391565275,184.7885758857587,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Dooars,February,2023,310.0477531445688,279.5413594008309,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,June,2023,142.41361926643498,153.0111977126964,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Munnar,April,2023,253.50010330200297,276.43519341480544,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Tripura,August,2023,126.83943078556582,127.01373821775724,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Tripura,March,2023,67.28182403847259,72.19885872643567,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Nilgiri,December,2023,328.2629394950669,339.45641346911526,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
+Assam,November,2023,424.26042973177726,452.2390213129583,Labor strike at the port delayed the shipment.,LABEL_0,0.5128858089447021,Port congestion causing delays.
+Wayanad,October,2023,76.705753709298,88.36829608760667,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Nilgiri,October,2023,215.85073771320936,236.3676993912056,Customs clearance issues delayed the shipment.,LABEL_0,0.5030000805854797,Delays due to customs clearance issues.
+Meghalaya,June,2023,184.8167647616356,177.580805560789,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Assam,May,2023,60.9790415300011,63.16695259640786,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.5184354186058044,Adverse weather conditions affecting supply.
+Terai,August,2023,198.38503703368264,219.60451432425063,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.5122790932655334,Port congestion causing delays.
+Arunachal Pradesh,April,2023,405.9807935724523,371.4794463707652,Road blockages due to flooding delayed the shipment.,LABEL_0,0.5015130639076233,Road blockages due to flooding.
