@@ -22,6 +22,11 @@ Milestone 3: Weeks 5-6
 Predictive models will be developed utilizing historical data and insights from the data analysis engine. These models will forecast the likelihood and impact of supply chain disruptions (e.g., natural disasters, political instability, transportation delays), predict changes in consumer demand (e.g., seasonality, economic trends), and forecast future inventory levels. Machine learning algorithms, such as time series forecasting and regression models, will be explored for model development.
 Secure and reliable integration will be established with the organization's ERP system (e.g., SAP) through the development of APIs or other suitable mechanisms. This integration will enable seamless data exchange between the AI system and the ERP, facilitating automated inventory adjustments based on the predictive models (e.g., adjusting order quantities, re-routing shipments).
 
+Milestone 4: Weeks 7-8
+An interactive dashboard will be developed using data visualization libraries (e.g., matplotlib, seaborn, Plotly) to visualize supply chain risks (e.g., heatmaps for risk levels, time series plots for disruption trends), display real-time inventory levels and forecast projections, and track key performance indicators (KPIs) related to supply chain performance.
+The system will be integrated with communication platforms like Slack or Email to implement real-time alerts for critical events such as high-risk situations (e.g., severe weather events, political unrest, major transportation delays), significant deviations from predicted inventory levels, and urgent action items (e.g., re-routing shipments, adjusting orders).
+
+
 
 
 
