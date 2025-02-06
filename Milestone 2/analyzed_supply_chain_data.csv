@@ -1,0 +1,1001 @@
+Region,Month,Year,Comment,Sentiment,Sentiment Score,Risk Analysis
+Darjeeling,March,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,June,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,February,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,March,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,March,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,January,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,November,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,February,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,January,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,April,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,September,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,May,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,February,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,April,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,June,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,November,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,December,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,November,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,October,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,March,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,July,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,July,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,February,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,October,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,November,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,October,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,November,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,July,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,March,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,December,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,July,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,June,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,August,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,April,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,April,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,December,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,August,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,February,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,December,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,January,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,September,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,January,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,October,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,January,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,May,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,March,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,June,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,October,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,December,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,February,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,February,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,March,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,October,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,August,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,July,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,October,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,February,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,April,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,December,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,December,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,February,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,May,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,October,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,February,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,March,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,March,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,December,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,May,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,June,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,December,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,December,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,December,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,July,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,October,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,November,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,August,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,October,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,January,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,July,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,January,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,February,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,January,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,February,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,August,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,July,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,April,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,June,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,August,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,December,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,July,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,June,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,January,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,January,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,March,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,December,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,December,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,October,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,August,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,August,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,January,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,November,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,March,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,October,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,June,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,November,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,October,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,June,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,June,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,December,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,March,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,March,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,May,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,August,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,April,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,April,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,February,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,April,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,March,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,June,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,May,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,October,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,December,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,April,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,January,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,November,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,March,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,July,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,November,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,November,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,June,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,November,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,June,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,June,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,October,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,March,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,September,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,March,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,April,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,October,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,August,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,December,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,August,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,July,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,October,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,September,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,October,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,June,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,April,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,July,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,December,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,January,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,December,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,November,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,September,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,February,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,September,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,May,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,February,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,July,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,January,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,March,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,August,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,October,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,November,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,February,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,August,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,August,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,June,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,December,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,June,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,July,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,June,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,January,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,May,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,August,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,July,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,April,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,July,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,January,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,December,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,August,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,July,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,July,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,December,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,March,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,September,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,June,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,December,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,July,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,April,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,February,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,July,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,April,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,July,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,September,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,August,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,February,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,January,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,February,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,September,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,March,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,April,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,October,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,June,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,July,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,April,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,June,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,July,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,November,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,March,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,July,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,August,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,November,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,March,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,December,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,September,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,October,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,March,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,January,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,August,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,May,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,December,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,August,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,March,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,September,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,May,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,February,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,May,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,July,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,September,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,November,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,April,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,November,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,March,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,April,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,June,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,April,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,December,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,October,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,April,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,August,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,December,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,December,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,August,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,June,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,June,2021,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,April,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,May,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,November,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,January,2021,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,August,2021,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,November,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,July,2021,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,July,2021,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,December,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,December,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,January,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,October,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,November,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,November,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,April,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,May,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,November,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,July,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,March,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,March,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,June,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,April,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,January,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,June,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,August,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,February,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,January,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,December,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,February,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,May,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,February,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,May,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,October,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,February,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,December,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,August,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,July,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,June,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,September,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,March,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,February,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,February,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,September,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,May,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,February,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,November,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,January,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,September,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,July,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,August,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,February,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,May,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,June,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,May,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,October,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,October,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,June,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,April,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,December,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,May,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,October,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,July,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,March,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,September,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,May,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,July,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,August,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,July,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,March,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,July,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,March,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,September,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,April,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,July,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,February,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,June,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,January,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,July,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,June,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,May,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,October,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,June,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,July,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,July,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,November,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,January,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,June,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,May,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,October,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,September,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,December,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,December,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,January,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,February,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,August,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,February,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,July,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,May,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,August,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,February,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,December,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,October,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,August,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,February,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,March,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,November,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,April,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,August,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,May,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,November,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,November,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,January,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,April,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,January,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,December,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,April,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,December,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,September,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,December,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,March,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,August,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,October,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,October,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,December,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,September,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,May,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,December,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,April,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,April,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,February,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,November,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,February,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,March,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,June,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,August,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,November,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,January,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,February,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,December,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,September,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,February,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,December,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,February,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,February,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,June,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,December,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,June,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,September,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,May,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,October,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,November,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,April,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,January,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,November,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,April,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,December,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,August,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,April,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,December,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,November,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,November,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,April,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,August,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,February,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,October,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,April,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,July,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,June,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,January,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,February,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,May,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,April,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,September,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,August,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,September,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,August,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,January,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,November,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,November,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,August,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,January,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,February,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,November,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,December,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,March,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,February,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,November,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,January,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,June,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,April,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,April,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,June,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,June,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,December,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,May,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,October,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,June,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,March,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,July,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,January,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,July,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,August,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,August,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,April,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,May,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,September,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,July,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,October,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,November,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,January,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,July,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,November,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,May,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,December,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,May,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,March,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,October,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,June,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,December,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,May,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,January,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,May,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,July,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,June,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,May,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,August,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,May,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,January,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,February,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,March,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,August,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,August,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,November,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,March,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,October,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,November,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,April,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,November,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,December,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,November,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,November,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,April,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,October,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,December,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,October,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,March,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,October,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,April,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,December,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,February,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,December,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,January,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,July,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,February,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,January,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,October,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,October,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,January,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,February,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,March,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,August,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,July,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,October,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,July,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,August,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,December,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,August,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,January,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,June,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,October,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,July,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,February,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,December,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,May,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,July,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,August,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,July,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,March,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,May,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,October,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,August,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,April,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,July,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,November,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,August,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,December,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,March,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,March,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,March,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,January,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,October,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,October,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,March,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,January,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,October,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,July,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,May,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,April,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,July,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,December,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,September,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,May,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,October,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,October,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,September,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,January,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,June,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,June,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,May,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,September,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,September,2022,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,July,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,November,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,May,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,April,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,August,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,August,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,October,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,May,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,March,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,January,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,June,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,June,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,January,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,August,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,January,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,July,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,May,2022,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,June,2022,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,April,2022,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,August,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,March,2022,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,July,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,July,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,June,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,January,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,June,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,November,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,October,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,October,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,December,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,January,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,March,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,August,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,July,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,April,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,October,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,June,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,July,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,May,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,August,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,April,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,December,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,October,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,December,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,April,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,February,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,November,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,February,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,February,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,December,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,May,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,April,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,December,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,December,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,October,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,March,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,October,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,September,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,December,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,May,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,June,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,August,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,March,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,April,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,March,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Nilgiri,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,December,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,March,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,May,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,December,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,December,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,May,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,November,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,October,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,August,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,July,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,March,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,August,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,September,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,December,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,November,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,June,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,January,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Nilgiri,July,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,October,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,October,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,September,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,December,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,August,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,July,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,January,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,September,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,October,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,August,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,November,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,February,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,February,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,October,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,March,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,May,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,October,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,November,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,March,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,April,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,August,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,September,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,August,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,July,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,January,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,December,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,December,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,May,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,May,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,September,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,December,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,July,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,May,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,December,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,October,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,November,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,September,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,October,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,December,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,February,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,May,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,November,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,July,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Assam,December,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,March,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,November,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,February,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,September,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,July,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,December,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,December,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,February,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,September,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,December,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,July,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,March,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,July,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,April,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,September,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,January,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,July,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,May,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,December,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,February,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,April,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,December,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,November,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,May,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,July,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,July,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,March,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Tripura,October,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,March,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,October,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,February,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,May,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,November,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,July,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,February,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,May,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,November,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,May,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,September,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,July,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,May,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,February,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,September,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,October,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,April,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,February,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,April,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,May,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,October,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,May,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,August,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,October,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,September,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,August,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,September,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,June,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,September,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,September,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,December,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,November,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,March,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,December,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,October,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Assam,August,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,April,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,December,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,September,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,May,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,October,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,September,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,September,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,May,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,July,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,January,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,November,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Munnar,June,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,April,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,October,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,September,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Wayanad,February,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,September,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,June,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,June,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,February,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Dooars,January,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,January,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,May,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,September,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,December,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,December,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,June,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,October,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,July,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,August,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,July,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,January,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,September,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,May,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,April,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,March,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,December,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,May,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Meghalaya,March,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,June,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,March,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,May,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,November,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,August,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,April,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,June,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,September,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,April,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,December,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,January,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,October,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Tripura,June,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Terai,January,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,November,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Munnar,October,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Darjeeling,July,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,August,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,February,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,November,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,September,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Terai,April,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,March,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,May,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Darjeeling,February,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,May,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,January,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,May,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,January,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Tripura,February,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,March,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Darjeeling,January,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Darjeeling,April,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Dooars,April,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Nilgiri,May,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Meghalaya,April,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Dooars,November,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Darjeeling,October,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,October,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,February,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Wayanad,March,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Arunachal Pradesh,July,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Terai,November,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Dooars,May,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,August,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Meghalaya,July,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Munnar,March,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Arunachal Pradesh,February,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Munnar,October,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Assam,November,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Terai,April,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,June,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Wayanad,February,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,March,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Meghalaya,April,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Arunachal Pradesh,August,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Arunachal Pradesh,July,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,September,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Wayanad,August,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Dooars,February,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,June,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Munnar,April,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Tripura,August,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Tripura,March,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Nilgiri,December,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
+Assam,November,2023,Labor strike at the port delayed the shipment.,LABEL_0,0.513508677,Port congestion causing delays.
+Wayanad,October,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Nilgiri,October,2023,Customs clearance issues delayed the shipment.,LABEL_0,0.509825945,Delays due to customs clearance issues.
+Meghalaya,June,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Assam,May,2023,Adverse weather conditions caused a delay in transportation.,LABEL_0,0.511364818,Adverse weather conditions affecting supply.
+Terai,August,2023,"Due to rush at the port, the shipment was delayed.",LABEL_0,0.516597629,Port congestion causing delays.
+Arunachal Pradesh,April,2023,Road blockages due to flooding delayed the shipment.,LABEL_0,0.520764828,Road blockages due to flooding.
