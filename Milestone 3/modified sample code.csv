@@ -1,0 +1,1001 @@
+Region,Month,Year,Action,Reason
+Darjeeling,March,2021,Monitor,Balanced supply-demand (1.13).
+Nilgiri,June,2021,Monitor,Balanced supply-demand (1.11).
+Munnar,February,2021,Increase Supply,"Low supply (0.71), demand exceeds supply."
+Darjeeling,August,2021,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Darjeeling,March,2021,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Nilgiri,April,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Assam,March,2021,Increase Supply,"Low supply (0.31), demand exceeds supply."
+Arunachal Pradesh,January,2021,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Arunachal Pradesh,November,2021,Monitor,Balanced supply-demand (1.07).
+Wayanad,February,2021,Monitor,Balanced supply-demand (0.87).
+Meghalaya,January,2021,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Meghalaya,April,2021,Increase Supply,"Low supply (0.80), demand exceeds supply."
+Arunachal Pradesh,September,2021,Increase Supply,"Low supply (0.74), demand exceeds supply."
+Darjeeling,May,2021,Reduce Supply,"High supply (1.37), oversupply risk."
+Meghalaya,February,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Munnar,May,2021,Increase Supply,"Low supply (0.34), demand exceeds supply."
+Nilgiri,April,2021,Monitor,Balanced supply-demand (1.02).
+Nilgiri,April,2021,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Munnar,June,2021,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Terai,November,2021,Reduce Supply,"High supply (1.31), oversupply risk."
+Meghalaya,December,2021,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Terai,November,2021,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Nilgiri,October,2021,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Assam,March,2021,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Assam,July,2021,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Dooars,June,2021,Monitor,Balanced supply-demand (0.94).
+Wayanad,July,2021,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Wayanad,February,2021,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Terai,October,2021,Monitor,Balanced supply-demand (1.19).
+Arunachal Pradesh,November,2021,Increase Supply,"Low supply (0.29), demand exceeds supply."
+Terai,October,2021,Reduce Supply,"High supply (1.80), oversupply risk."
+Munnar,November,2021,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Assam,July,2021,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Tripura,March,2021,Reduce Supply,"High supply (1.92), oversupply risk."
+Assam,February,2021,Reduce Supply,"High supply (2.18), oversupply risk."
+Dooars,January,2021,Monitor,Balanced supply-demand (0.80).
+Arunachal Pradesh,April,2021,Monitor,Balanced supply-demand (0.83).
+Terai,August,2021,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Darjeeling,December,2021,Reduce Supply,"High supply (1.68), oversupply risk."
+Darjeeling,June,2021,Monitor,Balanced supply-demand (0.90).
+Nilgiri,July,2021,Increase Supply,"Low supply (0.44), demand exceeds supply."
+Darjeeling,June,2021,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Meghalaya,August,2021,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Meghalaya,September,2021,Monitor,Balanced supply-demand (0.87).
+Assam,April,2021,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Dooars,April,2021,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Tripura,December,2021,Monitor,Balanced supply-demand (0.82).
+Nilgiri,August,2021,Reduce Supply,"High supply (1.67), oversupply risk."
+Arunachal Pradesh,February,2021,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Terai,January,2021,Monitor,Balanced supply-demand (1.12).
+Arunachal Pradesh,December,2021,Monitor,Balanced supply-demand (0.90).
+Wayanad,January,2021,Monitor,Balanced supply-demand (0.82).
+Dooars,January,2021,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Meghalaya,September,2021,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Arunachal Pradesh,September,2021,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Munnar,January,2021,Reduce Supply,"High supply (1.41), oversupply risk."
+Munnar,October,2021,Increase Supply,"Low supply (0.33), demand exceeds supply."
+Munnar,January,2021,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Terai,May,2021,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Assam,May,2021,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Terai,March,2021,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Meghalaya,June,2021,Increase Supply,"Low supply (0.36), demand exceeds supply."
+Arunachal Pradesh,October,2021,Increase Supply,"Low supply (0.79), demand exceeds supply."
+Tripura,December,2021,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Wayanad,February,2021,Increase Supply,"Low supply (0.62), demand exceeds supply."
+Darjeeling,September,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Tripura,January,2021,Monitor,Balanced supply-demand (0.82).
+Arunachal Pradesh,February,2021,Reduce Supply,"High supply (1.68), oversupply risk."
+Munnar,March,2021,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Terai,October,2021,Reduce Supply,"High supply (1.69), oversupply risk."
+Darjeeling,September,2021,Reduce Supply,"High supply (1.45), oversupply risk."
+Nilgiri,August,2021,Monitor,Balanced supply-demand (0.82).
+Darjeeling,July,2021,Monitor,Balanced supply-demand (0.90).
+Dooars,October,2021,Reduce Supply,"High supply (2.18), oversupply risk."
+Terai,February,2021,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Dooars,April,2021,Monitor,Balanced supply-demand (0.93).
+Nilgiri,December,2021,Monitor,Balanced supply-demand (1.12).
+Munnar,December,2021,Increase Supply,"Low supply (0.39), demand exceeds supply."
+Assam,February,2021,Monitor,Balanced supply-demand (0.98).
+Terai,August,2021,Increase Supply,"Low supply (0.34), demand exceeds supply."
+Munnar,May,2021,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Munnar,October,2021,Reduce Supply,"High supply (1.92), oversupply risk."
+Darjeeling,February,2021,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Tripura,March,2021,Increase Supply,"Low supply (0.28), demand exceeds supply."
+Arunachal Pradesh,April,2021,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Munnar,March,2021,Increase Supply,"Low supply (0.71), demand exceeds supply."
+Darjeeling,December,2021,Monitor,Balanced supply-demand (0.91).
+Terai,May,2021,Reduce Supply,"High supply (1.38), oversupply risk."
+Terai,September,2021,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Wayanad,June,2021,Monitor,Balanced supply-demand (1.03).
+Terai,December,2021,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Assam,December,2021,Monitor,Balanced supply-demand (0.91).
+Darjeeling,June,2021,Monitor,Balanced supply-demand (0.92).
+Nilgiri,December,2021,Monitor,Balanced supply-demand (0.90).
+Wayanad,July,2021,Reduce Supply,"High supply (1.26), oversupply risk."
+Arunachal Pradesh,October,2021,Monitor,Balanced supply-demand (1.09).
+Assam,November,2021,Monitor,Balanced supply-demand (1.04).
+Tripura,February,2021,Monitor,Balanced supply-demand (1.04).
+Darjeeling,August,2021,Increase Supply,"Low supply (0.30), demand exceeds supply."
+Tripura,August,2021,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Assam,October,2021,Monitor,Balanced supply-demand (0.85).
+Dooars,January,2021,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Arunachal Pradesh,July,2021,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Wayanad,February,2021,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Darjeeling,June,2021,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Wayanad,January,2021,Monitor,Balanced supply-demand (1.02).
+Wayanad,January,2021,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Dooars,February,2021,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Dooars,January,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Terai,February,2021,Increase Supply,"Low supply (0.80), demand exceeds supply."
+Assam,August,2021,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Munnar,July,2021,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Munnar,April,2021,Reduce Supply,"High supply (1.90), oversupply risk."
+Meghalaya,January,2021,Monitor,Balanced supply-demand (1.07).
+Assam,May,2021,Monitor,Balanced supply-demand (0.87).
+Darjeeling,June,2021,Monitor,Balanced supply-demand (1.08).
+Wayanad,August,2021,Reduce Supply,"High supply (1.74), oversupply risk."
+Assam,December,2021,Increase Supply,"Low supply (0.34), demand exceeds supply."
+Darjeeling,April,2021,Reduce Supply,"High supply (1.70), oversupply risk."
+Nilgiri,July,2021,Reduce Supply,"High supply (1.45), oversupply risk."
+Tripura,February,2021,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Terai,June,2021,Increase Supply,"Low supply (0.62), demand exceeds supply."
+Dooars,April,2021,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Wayanad,September,2021,Increase Supply,"Low supply (0.32), demand exceeds supply."
+Nilgiri,January,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Munnar,January,2021,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Darjeeling,March,2021,Reduce Supply,"High supply (2.08), oversupply risk."
+Tripura,December,2021,Monitor,Balanced supply-demand (1.06).
+Wayanad,January,2021,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Assam,January,2021,Monitor,Balanced supply-demand (1.04).
+Tripura,April,2021,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Nilgiri,December,2021,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Tripura,October,2021,Monitor,Balanced supply-demand (1.00).
+Munnar,August,2021,Monitor,Balanced supply-demand (0.96).
+Terai,August,2021,Monitor,Balanced supply-demand (0.87).
+Wayanad,January,2021,Reduce Supply,"High supply (1.33), oversupply risk."
+Assam,November,2021,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Darjeeling,March,2021,Monitor,Balanced supply-demand (0.93).
+Dooars,October,2021,Increase Supply,"Low supply (0.69), demand exceeds supply."
+Meghalaya,June,2021,Monitor,Balanced supply-demand (0.94).
+Meghalaya,November,2021,Monitor,Balanced supply-demand (0.82).
+Arunachal Pradesh,October,2021,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Dooars,June,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Dooars,August,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Dooars,June,2021,Monitor,Balanced supply-demand (0.91).
+Nilgiri,December,2021,Increase Supply,"Low supply (0.30), demand exceeds supply."
+Arunachal Pradesh,February,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Terai,May,2021,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Nilgiri,March,2021,Increase Supply,"Low supply (0.30), demand exceeds supply."
+Nilgiri,September,2021,Increase Supply,"Low supply (0.41), demand exceeds supply."
+Arunachal Pradesh,March,2021,Monitor,Balanced supply-demand (0.97).
+Arunachal Pradesh,May,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Arunachal Pradesh,June,2021,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Munnar,August,2021,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Darjeeling,May,2021,Monitor,Balanced supply-demand (1.03).
+Munnar,April,2021,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Nilgiri,April,2021,Reduce Supply,"High supply (1.33), oversupply risk."
+Meghalaya,August,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Darjeeling,February,2021,Increase Supply,"Low supply (0.36), demand exceeds supply."
+Dooars,April,2021,Reduce Supply,"High supply (2.08), oversupply risk."
+Meghalaya,March,2021,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Darjeeling,June,2021,Reduce Supply,"High supply (1.44), oversupply risk."
+Tripura,May,2021,Monitor,Balanced supply-demand (1.02).
+Darjeeling,October,2021,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Tripura,December,2021,Monitor,Balanced supply-demand (0.87).
+Dooars,September,2021,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Nilgiri,April,2021,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Munnar,January,2021,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Wayanad,November,2021,Monitor,Balanced supply-demand (0.96).
+Munnar,March,2021,Monitor,Balanced supply-demand (1.18).
+Wayanad,July,2021,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Darjeeling,November,2021,Increase Supply,"Low supply (0.24), demand exceeds supply."
+Dooars,November,2021,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Tripura,June,2021,Monitor,Balanced supply-demand (0.84).
+Terai,November,2021,Monitor,Balanced supply-demand (0.82).
+Assam,June,2021,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Nilgiri,June,2021,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Darjeeling,October,2021,Reduce Supply,"High supply (1.27), oversupply risk."
+Assam,March,2021,Monitor,Balanced supply-demand (0.85).
+Nilgiri,September,2021,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Meghalaya,March,2021,Increase Supply,"Low supply (0.47), demand exceeds supply."
+Munnar,April,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Wayanad,October,2021,Monitor,Balanced supply-demand (0.97).
+Dooars,August,2021,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Darjeeling,August,2021,Monitor,Balanced supply-demand (1.19).
+Wayanad,December,2021,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Arunachal Pradesh,August,2021,Monitor,Balanced supply-demand (0.82).
+Terai,January,2021,Reduce Supply,"High supply (1.48), oversupply risk."
+Nilgiri,July,2021,Monitor,Balanced supply-demand (0.96).
+Tripura,October,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Tripura,January,2021,Monitor,Balanced supply-demand (1.00).
+Meghalaya,February,2021,Monitor,Balanced supply-demand (0.96).
+Wayanad,September,2021,Reduce Supply,"High supply (1.51), oversupply risk."
+Munnar,October,2021,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Munnar,January,2021,Reduce Supply,"High supply (1.62), oversupply risk."
+Munnar,June,2021,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Tripura,May,2021,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Wayanad,April,2021,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Darjeeling,July,2021,Monitor,Balanced supply-demand (0.86).
+Meghalaya,December,2021,Reduce Supply,"High supply (1.62), oversupply risk."
+Meghalaya,January,2021,Increase Supply,"Low supply (0.69), demand exceeds supply."
+Wayanad,December,2021,Monitor,Balanced supply-demand (0.97).
+Tripura,February,2021,Monitor,Balanced supply-demand (1.18).
+Nilgiri,November,2021,Reduce Supply,"High supply (1.56), oversupply risk."
+Wayanad,September,2021,Monitor,Balanced supply-demand (0.89).
+Nilgiri,February,2021,Increase Supply,"Low supply (0.31), demand exceeds supply."
+Assam,February,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Assam,September,2021,Monitor,Balanced supply-demand (1.01).
+Assam,May,2021,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Terai,February,2021,Increase Supply,"Low supply (0.28), demand exceeds supply."
+Nilgiri,July,2021,Monitor,Balanced supply-demand (0.98).
+Munnar,January,2021,Monitor,Balanced supply-demand (0.89).
+Dooars,March,2021,Reduce Supply,"High supply (1.57), oversupply risk."
+Dooars,April,2021,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Dooars,August,2021,Monitor,Balanced supply-demand (0.86).
+Assam,October,2021,Monitor,Balanced supply-demand (0.98).
+Meghalaya,November,2021,Reduce Supply,"High supply (1.22), oversupply risk."
+Dooars,February,2021,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Terai,August,2021,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Terai,May,2021,Reduce Supply,"High supply (1.45), oversupply risk."
+Arunachal Pradesh,January,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Tripura,August,2021,Reduce Supply,"High supply (1.25), oversupply risk."
+Tripura,June,2021,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Terai,December,2021,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Terai,June,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Munnar,January,2021,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Assam,September,2021,Reduce Supply,"High supply (1.37), oversupply risk."
+Meghalaya,July,2021,Monitor,Balanced supply-demand (0.95).
+Assam,February,2021,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Munnar,February,2021,Monitor,Balanced supply-demand (0.86).
+Dooars,June,2021,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Darjeeling,January,2021,Monitor,Balanced supply-demand (1.07).
+Terai,January,2021,Monitor,Balanced supply-demand (1.15).
+Meghalaya,September,2021,Reduce Supply,"High supply (1.75), oversupply risk."
+Arunachal Pradesh,May,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Darjeeling,August,2021,Monitor,Balanced supply-demand (1.03).
+Dooars,September,2021,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Assam,July,2021,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Arunachal Pradesh,April,2021,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Terai,July,2021,Monitor,Balanced supply-demand (0.81).
+Terai,January,2021,Increase Supply,"Low supply (0.79), demand exceeds supply."
+Assam,December,2021,Monitor,Balanced supply-demand (0.89).
+Wayanad,August,2021,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Wayanad,July,2021,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Terai,April,2021,Increase Supply,"Low supply (0.27), demand exceeds supply."
+Meghalaya,July,2021,Monitor,Balanced supply-demand (0.97).
+Darjeeling,February,2021,Monitor,Balanced supply-demand (1.13).
+Assam,December,2021,Reduce Supply,"High supply (2.40), oversupply risk."
+Dooars,March,2021,Monitor,Balanced supply-demand (0.85).
+Terai,September,2021,Monitor,Balanced supply-demand (1.02).
+Terai,June,2021,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Meghalaya,December,2021,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Tripura,July,2021,Reduce Supply,"High supply (1.77), oversupply risk."
+Terai,April,2021,Monitor,Balanced supply-demand (1.04).
+Terai,February,2021,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Assam,September,2021,Monitor,Balanced supply-demand (0.95).
+Dooars,July,2021,Reduce Supply,"High supply (1.73), oversupply risk."
+Terai,September,2021,Monitor,Balanced supply-demand (0.87).
+Darjeeling,April,2021,Reduce Supply,"High supply (1.89), oversupply risk."
+Assam,July,2021,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Arunachal Pradesh,September,2021,Reduce Supply,"High supply (1.33), oversupply risk."
+Darjeeling,January,2021,Monitor,Balanced supply-demand (0.93).
+Wayanad,January,2021,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Wayanad,August,2021,Monitor,Balanced supply-demand (0.85).
+Munnar,June,2021,Reduce Supply,"High supply (2.58), oversupply risk."
+Munnar,February,2021,Reduce Supply,"High supply (2.21), oversupply risk."
+Meghalaya,January,2021,Monitor,Balanced supply-demand (1.19).
+Wayanad,February,2021,Monitor,Balanced supply-demand (0.93).
+Meghalaya,September,2021,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Dooars,March,2021,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Nilgiri,April,2021,Monitor,Balanced supply-demand (0.83).
+Arunachal Pradesh,October,2021,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Terai,June,2021,Increase Supply,"Low supply (0.69), demand exceeds supply."
+Munnar,September,2021,Reduce Supply,"High supply (2.43), oversupply risk."
+Wayanad,July,2021,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Tripura,April,2021,Reduce Supply,"High supply (1.54), oversupply risk."
+Arunachal Pradesh,June,2021,Reduce Supply,"High supply (1.27), oversupply risk."
+Arunachal Pradesh,April,2021,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Arunachal Pradesh,July,2021,Reduce Supply,"High supply (1.49), oversupply risk."
+Wayanad,November,2021,Monitor,Balanced supply-demand (0.95).
+Terai,May,2021,Monitor,Balanced supply-demand (0.98).
+Dooars,January,2021,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Darjeeling,March,2021,Increase Supply,"Low supply (0.62), demand exceeds supply."
+Assam,July,2021,Monitor,Balanced supply-demand (0.99).
+Meghalaya,August,2021,Monitor,Balanced supply-demand (1.16).
+Terai,November,2021,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Darjeeling,March,2021,Reduce Supply,"High supply (1.31), oversupply risk."
+Assam,December,2021,Monitor,Balanced supply-demand (0.96).
+Tripura,September,2021,Reduce Supply,"High supply (1.37), oversupply risk."
+Tripura,October,2021,Reduce Supply,"High supply (1.89), oversupply risk."
+Nilgiri,March,2021,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Nilgiri,September,2021,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Wayanad,January,2021,Monitor,Balanced supply-demand (0.88).
+Arunachal Pradesh,August,2021,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Meghalaya,May,2021,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Darjeeling,December,2021,Monitor,Balanced supply-demand (1.14).
+Dooars,August,2021,Reduce Supply,"High supply (1.72), oversupply risk."
+Dooars,August,2021,Monitor,Balanced supply-demand (0.94).
+Tripura,March,2021,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Terai,September,2021,Increase Supply,"Low supply (0.33), demand exceeds supply."
+Nilgiri,September,2021,Monitor,Balanced supply-demand (1.01).
+Munnar,May,2021,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Tripura,February,2021,Reduce Supply,"High supply (1.57), oversupply risk."
+Nilgiri,May,2021,Monitor,Balanced supply-demand (0.85).
+Tripura,July,2021,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Terai,September,2021,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Nilgiri,November,2021,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Nilgiri,April,2021,Increase Supply,"Low supply (0.41), demand exceeds supply."
+Terai,April,2021,Reduce Supply,"High supply (1.33), oversupply risk."
+Munnar,November,2021,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Arunachal Pradesh,March,2021,Reduce Supply,"High supply (1.60), oversupply risk."
+Meghalaya,April,2021,Increase Supply,"Low supply (0.29), demand exceeds supply."
+Tripura,June,2021,Increase Supply,"Low supply (0.41), demand exceeds supply."
+Dooars,April,2021,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Munnar,June,2021,Monitor,Balanced supply-demand (1.17).
+Wayanad,August,2021,Monitor,Balanced supply-demand (0.84).
+Dooars,December,2021,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Terai,October,2021,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Terai,June,2021,Monitor,Balanced supply-demand (1.06).
+Munnar,April,2021,Reduce Supply,"High supply (1.31), oversupply risk."
+Dooars,August,2021,Monitor,Balanced supply-demand (1.04).
+Dooars,December,2021,Reduce Supply,"High supply (1.64), oversupply risk."
+Dooars,December,2021,Increase Supply,"Low supply (0.54), demand exceeds supply."
+Dooars,August,2021,Monitor,Balanced supply-demand (0.87).
+Assam,June,2021,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Dooars,June,2021,Monitor,Balanced supply-demand (1.16).
+Darjeeling,April,2021,Reduce Supply,"High supply (1.45), oversupply risk."
+Dooars,May,2021,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Wayanad,November,2021,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Meghalaya,January,2021,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Dooars,August,2021,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Assam,November,2021,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Tripura,July,2021,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Wayanad,July,2021,Increase Supply,"Low supply (0.26), demand exceeds supply."
+Terai,December,2022,Increase Supply,"Low supply (0.24), demand exceeds supply."
+Assam,December,2022,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Wayanad,January,2022,Reduce Supply,"High supply (1.58), oversupply risk."
+Wayanad,October,2022,Increase Supply,"Low supply (0.71), demand exceeds supply."
+Terai,November,2022,Reduce Supply,"High supply (1.59), oversupply risk."
+Meghalaya,November,2022,Monitor,Balanced supply-demand (1.04).
+Assam,April,2022,Monitor,Balanced supply-demand (0.94).
+Terai,May,2022,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Munnar,November,2022,Increase Supply,"Low supply (0.33), demand exceeds supply."
+Assam,July,2022,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Darjeeling,March,2022,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Meghalaya,March,2022,Monitor,Balanced supply-demand (0.95).
+Assam,June,2022,Monitor,Balanced supply-demand (1.17).
+Assam,April,2022,Increase Supply,"Low supply (0.44), demand exceeds supply."
+Meghalaya,January,2022,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Meghalaya,June,2022,Reduce Supply,"High supply (1.69), oversupply risk."
+Meghalaya,August,2022,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Nilgiri,February,2022,Monitor,Balanced supply-demand (0.87).
+Terai,January,2022,Monitor,Balanced supply-demand (0.92).
+Munnar,December,2022,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Arunachal Pradesh,February,2022,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Wayanad,May,2022,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Assam,February,2022,Increase Supply,"Low supply (0.25), demand exceeds supply."
+Tripura,May,2022,Monitor,Balanced supply-demand (0.80).
+Tripura,October,2022,Reduce Supply,"High supply (1.51), oversupply risk."
+Munnar,September,2022,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Terai,February,2022,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Assam,December,2022,Reduce Supply,"High supply (1.38), oversupply risk."
+Meghalaya,August,2022,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Terai,July,2022,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Wayanad,June,2022,Monitor,Balanced supply-demand (0.91).
+Nilgiri,September,2022,Monitor,Balanced supply-demand (1.19).
+Tripura,March,2022,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Nilgiri,February,2022,Monitor,Balanced supply-demand (0.81).
+Munnar,February,2022,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Munnar,September,2022,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Tripura,May,2022,Increase Supply,"Low supply (0.29), demand exceeds supply."
+Assam,February,2022,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Tripura,November,2022,Increase Supply,"Low supply (0.28), demand exceeds supply."
+Wayanad,January,2022,Monitor,Balanced supply-demand (0.87).
+Arunachal Pradesh,September,2022,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Meghalaya,July,2022,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Arunachal Pradesh,August,2022,Monitor,Balanced supply-demand (1.12).
+Assam,February,2022,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Munnar,May,2022,Monitor,Balanced supply-demand (1.06).
+Dooars,June,2022,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Wayanad,September,2022,Monitor,Balanced supply-demand (0.83).
+Nilgiri,May,2022,Monitor,Balanced supply-demand (1.18).
+Assam,October,2022,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Darjeeling,October,2022,Reduce Supply,"High supply (1.41), oversupply risk."
+Wayanad,June,2022,Monitor,Balanced supply-demand (0.82).
+Wayanad,April,2022,Reduce Supply,"High supply (1.39), oversupply risk."
+Assam,December,2022,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Arunachal Pradesh,May,2022,Monitor,Balanced supply-demand (1.06).
+Darjeeling,October,2022,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Assam,July,2022,Monitor,Balanced supply-demand (1.17).
+Assam,March,2022,Reduce Supply,"High supply (1.69), oversupply risk."
+Dooars,September,2022,Reduce Supply,"High supply (1.43), oversupply risk."
+Terai,May,2022,Monitor,Balanced supply-demand (0.97).
+Nilgiri,July,2022,Monitor,Balanced supply-demand (0.92).
+Tripura,August,2022,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Munnar,July,2022,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Terai,March,2022,Reduce Supply,"High supply (1.25), oversupply risk."
+Darjeeling,July,2022,Monitor,Balanced supply-demand (1.01).
+Tripura,March,2022,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Nilgiri,September,2022,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Meghalaya,April,2022,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Meghalaya,July,2022,Reduce Supply,"High supply (1.65), oversupply risk."
+Meghalaya,February,2022,Reduce Supply,"High supply (1.61), oversupply risk."
+Munnar,June,2022,Monitor,Balanced supply-demand (0.85).
+Tripura,January,2022,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Wayanad,July,2022,Reduce Supply,"High supply (1.24), oversupply risk."
+Nilgiri,June,2022,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Darjeeling,May,2022,Increase Supply,"Low supply (0.31), demand exceeds supply."
+Dooars,October,2022,Monitor,Balanced supply-demand (0.86).
+Tripura,June,2022,Increase Supply,"Low supply (0.31), demand exceeds supply."
+Assam,July,2022,Monitor,Balanced supply-demand (0.87).
+Munnar,July,2022,Reduce Supply,"High supply (2.38), oversupply risk."
+Tripura,November,2022,Reduce Supply,"High supply (1.67), oversupply risk."
+Meghalaya,January,2022,Reduce Supply,"High supply (1.66), oversupply risk."
+Arunachal Pradesh,June,2022,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Arunachal Pradesh,May,2022,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Meghalaya,October,2022,Monitor,Balanced supply-demand (1.20).
+Darjeeling,September,2022,Monitor,Balanced supply-demand (1.15).
+Terai,December,2022,Monitor,Balanced supply-demand (1.08).
+Dooars,December,2022,Increase Supply,"Low supply (0.60), demand exceeds supply."
+Darjeeling,January,2022,Reduce Supply,"High supply (1.35), oversupply risk."
+Assam,February,2022,Monitor,Balanced supply-demand (0.93).
+Meghalaya,August,2022,Monitor,Balanced supply-demand (0.90).
+Nilgiri,February,2022,Reduce Supply,"High supply (1.50), oversupply risk."
+Arunachal Pradesh,July,2022,Increase Supply,"Low supply (0.26), demand exceeds supply."
+Assam,May,2022,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Munnar,August,2022,Reduce Supply,"High supply (1.81), oversupply risk."
+Munnar,February,2022,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Munnar,December,2022,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Nilgiri,October,2022,Increase Supply,"Low supply (0.32), demand exceeds supply."
+Arunachal Pradesh,August,2022,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Nilgiri,February,2022,Monitor,Balanced supply-demand (0.93).
+Munnar,March,2022,Monitor,Balanced supply-demand (0.80).
+Nilgiri,November,2022,Increase Supply,"Low supply (0.44), demand exceeds supply."
+Nilgiri,April,2022,Monitor,Balanced supply-demand (0.89).
+Dooars,August,2022,Reduce Supply,"High supply (2.39), oversupply risk."
+Tripura,May,2022,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Tripura,November,2022,Monitor,Balanced supply-demand (0.88).
+Arunachal Pradesh,November,2022,Reduce Supply,"High supply (1.31), oversupply risk."
+Nilgiri,January,2022,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Meghalaya,April,2022,Increase Supply,"Low supply (0.33), demand exceeds supply."
+Darjeeling,January,2022,Reduce Supply,"High supply (1.93), oversupply risk."
+Arunachal Pradesh,December,2022,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Meghalaya,April,2022,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Arunachal Pradesh,September,2022,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Munnar,December,2022,Reduce Supply,"High supply (1.78), oversupply risk."
+Assam,September,2022,Monitor,Balanced supply-demand (0.82).
+Dooars,December,2022,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Meghalaya,March,2022,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Meghalaya,August,2022,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Munnar,October,2022,Monitor,Balanced supply-demand (1.01).
+Nilgiri,October,2022,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Arunachal Pradesh,December,2022,Increase Supply,"Low supply (0.44), demand exceeds supply."
+Dooars,September,2022,Monitor,Balanced supply-demand (0.93).
+Munnar,September,2022,Reduce Supply,"High supply (1.20), oversupply risk."
+Tripura,May,2022,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Nilgiri,December,2022,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Nilgiri,April,2022,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Dooars,April,2022,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Munnar,February,2022,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Nilgiri,November,2022,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Munnar,February,2022,Monitor,Balanced supply-demand (0.86).
+Munnar,March,2022,Reduce Supply,"High supply (1.93), oversupply risk."
+Tripura,June,2022,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Terai,August,2022,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Wayanad,November,2022,Reduce Supply,"High supply (1.45), oversupply risk."
+Nilgiri,January,2022,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Meghalaya,February,2022,Monitor,Balanced supply-demand (1.17).
+Dooars,December,2022,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Munnar,September,2022,Monitor,Balanced supply-demand (0.96).
+Wayanad,February,2022,Increase Supply,"Low supply (0.41), demand exceeds supply."
+Dooars,December,2022,Monitor,Balanced supply-demand (0.94).
+Terai,February,2022,Increase Supply,"Low supply (0.26), demand exceeds supply."
+Nilgiri,February,2022,Reduce Supply,"High supply (1.21), oversupply risk."
+Munnar,June,2022,Monitor,Balanced supply-demand (0.94).
+Terai,December,2022,Monitor,Balanced supply-demand (0.84).
+Tripura,June,2022,Increase Supply,"Low supply (0.32), demand exceeds supply."
+Darjeeling,September,2022,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Nilgiri,May,2022,Increase Supply,"Low supply (0.80), demand exceeds supply."
+Arunachal Pradesh,October,2022,Monitor,Balanced supply-demand (0.94).
+Tripura,November,2022,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Nilgiri,April,2022,Reduce Supply,"High supply (1.66), oversupply risk."
+Wayanad,September,2022,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Tripura,January,2022,Reduce Supply,"High supply (2.23), oversupply risk."
+Tripura,November,2022,Monitor,Balanced supply-demand (0.97).
+Meghalaya,April,2022,Reduce Supply,"High supply (1.32), oversupply risk."
+Darjeeling,September,2022,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Nilgiri,December,2022,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Dooars,August,2022,Monitor,Balanced supply-demand (1.18).
+Arunachal Pradesh,April,2022,Monitor,Balanced supply-demand (1.18).
+Assam,December,2022,Monitor,Balanced supply-demand (0.96).
+Wayanad,November,2022,Monitor,Balanced supply-demand (1.15).
+Assam,November,2022,Monitor,Balanced supply-demand (0.93).
+Darjeeling,April,2022,Monitor,Balanced supply-demand (1.17).
+Assam,August,2022,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Dooars,February,2022,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Arunachal Pradesh,October,2022,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Terai,April,2022,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Darjeeling,July,2022,Monitor,Balanced supply-demand (1.18).
+Assam,June,2022,Monitor,Balanced supply-demand (0.84).
+Nilgiri,January,2022,Increase Supply,"Low supply (0.79), demand exceeds supply."
+Terai,February,2022,Monitor,Balanced supply-demand (0.91).
+Darjeeling,May,2022,Reduce Supply,"High supply (1.50), oversupply risk."
+Meghalaya,April,2022,Reduce Supply,"High supply (1.40), oversupply risk."
+Nilgiri,September,2022,Monitor,Balanced supply-demand (1.11).
+Assam,August,2022,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Tripura,September,2022,Monitor,Balanced supply-demand (0.98).
+Meghalaya,August,2022,Monitor,Balanced supply-demand (1.03).
+Tripura,January,2022,Monitor,Balanced supply-demand (0.97).
+Assam,November,2022,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Tripura,November,2022,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Munnar,August,2022,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Nilgiri,January,2022,Increase Supply,"Low supply (0.62), demand exceeds supply."
+Arunachal Pradesh,February,2022,Reduce Supply,"High supply (2.87), oversupply risk."
+Darjeeling,November,2022,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Wayanad,December,2022,Monitor,Balanced supply-demand (1.12).
+Dooars,March,2022,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Nilgiri,February,2022,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Dooars,November,2022,Reduce Supply,"High supply (1.48), oversupply risk."
+Terai,January,2022,Increase Supply,"Low supply (0.32), demand exceeds supply."
+Tripura,June,2022,Reduce Supply,"High supply (1.58), oversupply risk."
+Assam,April,2022,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Terai,April,2022,Reduce Supply,"High supply (1.24), oversupply risk."
+Dooars,September,2022,Reduce Supply,"High supply (1.82), oversupply risk."
+Darjeeling,June,2022,Monitor,Balanced supply-demand (1.16).
+Assam,June,2022,Monitor,Balanced supply-demand (0.94).
+Assam,December,2022,Monitor,Balanced supply-demand (0.83).
+Wayanad,May,2022,Monitor,Balanced supply-demand (0.85).
+Munnar,October,2022,Increase Supply,"Low supply (0.31), demand exceeds supply."
+Tripura,June,2022,Monitor,Balanced supply-demand (0.98).
+Nilgiri,March,2022,Reduce Supply,"High supply (1.47), oversupply risk."
+Wayanad,July,2022,Monitor,Balanced supply-demand (1.03).
+Dooars,January,2022,Monitor,Balanced supply-demand (0.99).
+Assam,July,2022,Monitor,Balanced supply-demand (1.10).
+Meghalaya,August,2022,Monitor,Balanced supply-demand (0.95).
+Darjeeling,August,2022,Reduce Supply,"High supply (2.34), oversupply risk."
+Wayanad,April,2022,Reduce Supply,"High supply (1.48), oversupply risk."
+Munnar,May,2022,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Meghalaya,September,2022,Reduce Supply,"High supply (1.27), oversupply risk."
+Meghalaya,July,2022,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Wayanad,October,2022,Monitor,Balanced supply-demand (0.96).
+Tripura,November,2022,Reduce Supply,"High supply (1.56), oversupply risk."
+Assam,January,2022,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Wayanad,July,2022,Reduce Supply,"High supply (1.27), oversupply risk."
+Darjeeling,November,2022,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Assam,May,2022,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Wayanad,December,2022,Increase Supply,"Low supply (0.33), demand exceeds supply."
+Munnar,May,2022,Monitor,Balanced supply-demand (0.83).
+Meghalaya,March,2022,Reduce Supply,"High supply (1.55), oversupply risk."
+Terai,October,2022,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Assam,June,2022,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Terai,December,2022,Monitor,Balanced supply-demand (0.95).
+Munnar,May,2022,Increase Supply,"Low supply (0.60), demand exceeds supply."
+Tripura,September,2022,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Arunachal Pradesh,January,2022,Reduce Supply,"High supply (1.60), oversupply risk."
+Nilgiri,May,2022,Monitor,Balanced supply-demand (0.95).
+Munnar,July,2022,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Munnar,June,2022,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Dooars,May,2022,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Terai,August,2022,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Tripura,May,2022,Monitor,Balanced supply-demand (1.01).
+Terai,January,2022,Increase Supply,"Low supply (0.71), demand exceeds supply."
+Tripura,February,2022,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Arunachal Pradesh,March,2022,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Wayanad,August,2022,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Meghalaya,August,2022,Monitor,Balanced supply-demand (1.06).
+Arunachal Pradesh,September,2022,Increase Supply,"Low supply (0.62), demand exceeds supply."
+Terai,November,2022,Reduce Supply,"High supply (1.55), oversupply risk."
+Meghalaya,March,2022,Monitor,Balanced supply-demand (1.05).
+Meghalaya,October,2022,Increase Supply,"Low supply (0.69), demand exceeds supply."
+Munnar,November,2022,Increase Supply,"Low supply (0.74), demand exceeds supply."
+Munnar,April,2022,Reduce Supply,"High supply (1.85), oversupply risk."
+Wayanad,November,2022,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Arunachal Pradesh,December,2022,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Dooars,November,2022,Reduce Supply,"High supply (1.60), oversupply risk."
+Dooars,November,2022,Reduce Supply,"High supply (2.47), oversupply risk."
+Wayanad,April,2022,Monitor,Balanced supply-demand (1.17).
+Dooars,October,2022,Monitor,Balanced supply-demand (0.82).
+Terai,December,2022,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Dooars,October,2022,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Wayanad,March,2022,Monitor,Balanced supply-demand (1.06).
+Terai,September,2022,Monitor,Balanced supply-demand (1.18).
+Munnar,October,2022,Increase Supply,"Low supply (0.71), demand exceeds supply."
+Meghalaya,April,2022,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Meghalaya,December,2022,Increase Supply,"Low supply (0.60), demand exceeds supply."
+Darjeeling,February,2022,Monitor,Balanced supply-demand (1.16).
+Wayanad,December,2022,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Munnar,January,2022,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Wayanad,July,2022,Increase Supply,"Low supply (0.54), demand exceeds supply."
+Assam,February,2022,Increase Supply,"Low supply (0.36), demand exceeds supply."
+Tripura,January,2022,Increase Supply,"Low supply (0.39), demand exceeds supply."
+Dooars,October,2022,Increase Supply,"Low supply (0.54), demand exceeds supply."
+Meghalaya,October,2022,Monitor,Balanced supply-demand (0.83).
+Munnar,January,2022,Monitor,Balanced supply-demand (1.09).
+Dooars,February,2022,Monitor,Balanced supply-demand (0.97).
+Arunachal Pradesh,March,2022,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Nilgiri,August,2022,Monitor,Balanced supply-demand (1.17).
+Arunachal Pradesh,July,2022,Monitor,Balanced supply-demand (1.20).
+Wayanad,October,2022,Monitor,Balanced supply-demand (1.06).
+Darjeeling,July,2022,Increase Supply,"Low supply (0.29), demand exceeds supply."
+Terai,August,2022,Increase Supply,"Low supply (0.80), demand exceeds supply."
+Dooars,December,2022,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Darjeeling,August,2022,Increase Supply,"Low supply (0.79), demand exceeds supply."
+Wayanad,January,2022,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Tripura,June,2022,Monitor,Balanced supply-demand (1.13).
+Meghalaya,October,2022,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Tripura,July,2022,Monitor,Balanced supply-demand (1.01).
+Wayanad,February,2022,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Assam,December,2022,Monitor,Balanced supply-demand (1.13).
+Tripura,May,2022,Monitor,Balanced supply-demand (1.01).
+Arunachal Pradesh,July,2022,Increase Supply,"Low supply (0.32), demand exceeds supply."
+Darjeeling,August,2022,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Tripura,July,2022,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Munnar,March,2022,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Wayanad,May,2022,Reduce Supply,"High supply (1.44), oversupply risk."
+Dooars,October,2022,Monitor,Balanced supply-demand (0.96).
+Darjeeling,August,2022,Increase Supply,"Low supply (0.24), demand exceeds supply."
+Arunachal Pradesh,April,2022,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Tripura,July,2022,Monitor,Balanced supply-demand (0.82).
+Assam,November,2022,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Terai,August,2022,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Terai,December,2022,Monitor,Balanced supply-demand (1.19).
+Dooars,March,2022,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Arunachal Pradesh,March,2022,Increase Supply,"Low supply (0.44), demand exceeds supply."
+Arunachal Pradesh,March,2022,Reduce Supply,"High supply (1.62), oversupply risk."
+Munnar,January,2022,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Arunachal Pradesh,October,2022,Monitor,Balanced supply-demand (1.19).
+Dooars,October,2022,Monitor,Balanced supply-demand (0.95).
+Terai,March,2022,Monitor,Balanced supply-demand (0.83).
+Tripura,January,2022,Increase Supply,"Low supply (0.69), demand exceeds supply."
+Munnar,October,2022,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Wayanad,July,2022,Reduce Supply,"High supply (1.30), oversupply risk."
+Meghalaya,May,2022,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Tripura,April,2022,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Tripura,July,2022,Increase Supply,"Low supply (0.28), demand exceeds supply."
+Assam,December,2022,Monitor,Balanced supply-demand (0.95).
+Darjeeling,September,2022,Monitor,Balanced supply-demand (0.98).
+Tripura,May,2022,Monitor,Balanced supply-demand (0.94).
+Tripura,October,2022,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Arunachal Pradesh,October,2022,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Wayanad,September,2022,Increase Supply,"Low supply (0.39), demand exceeds supply."
+Nilgiri,January,2022,Increase Supply,"Low supply (0.47), demand exceeds supply."
+Tripura,June,2022,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Nilgiri,June,2022,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Tripura,May,2022,Monitor,Balanced supply-demand (0.93).
+Darjeeling,September,2022,Monitor,Balanced supply-demand (0.84).
+Assam,September,2022,Reduce Supply,"High supply (1.37), oversupply risk."
+Assam,July,2022,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Arunachal Pradesh,November,2022,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Arunachal Pradesh,May,2022,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Tripura,April,2022,Monitor,Balanced supply-demand (0.94).
+Tripura,August,2022,Monitor,Balanced supply-demand (1.14).
+Wayanad,August,2022,Monitor,Balanced supply-demand (1.02).
+Terai,October,2022,Monitor,Balanced supply-demand (1.16).
+Meghalaya,May,2022,Reduce Supply,"High supply (1.55), oversupply risk."
+Wayanad,March,2022,Increase Supply,"Low supply (0.28), demand exceeds supply."
+Dooars,January,2022,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Darjeeling,June,2022,Monitor,Balanced supply-demand (0.89).
+Munnar,June,2022,Monitor,Balanced supply-demand (1.03).
+Assam,January,2022,Monitor,Balanced supply-demand (0.90).
+Arunachal Pradesh,August,2022,Increase Supply,"Low supply (0.54), demand exceeds supply."
+Terai,January,2022,Monitor,Balanced supply-demand (1.06).
+Meghalaya,July,2022,Increase Supply,"Low supply (0.54), demand exceeds supply."
+Nilgiri,May,2022,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Darjeeling,June,2022,Increase Supply,"Low supply (0.28), demand exceeds supply."
+Arunachal Pradesh,April,2022,Increase Supply,"Low supply (0.34), demand exceeds supply."
+Munnar,August,2022,Monitor,Balanced supply-demand (0.88).
+Darjeeling,March,2022,Increase Supply,"Low supply (0.30), demand exceeds supply."
+Terai,July,2023,Monitor,Balanced supply-demand (1.07).
+Terai,July,2023,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Tripura,June,2023,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Wayanad,September,2023,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Nilgiri,June,2023,Increase Supply,"Low supply (0.34), demand exceeds supply."
+Terai,January,2023,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Darjeeling,June,2023,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Munnar,November,2023,Reduce Supply,"High supply (1.35), oversupply risk."
+Dooars,June,2023,Monitor,Balanced supply-demand (1.08).
+Terai,October,2023,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Wayanad,October,2023,Reduce Supply,"High supply (2.00), oversupply risk."
+Terai,June,2023,Monitor,Balanced supply-demand (0.90).
+Munnar,December,2023,Reduce Supply,"High supply (1.26), oversupply risk."
+Nilgiri,February,2023,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Arunachal Pradesh,January,2023,Increase Supply,"Low supply (0.47), demand exceeds supply."
+Darjeeling,March,2023,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Assam,August,2023,Reduce Supply,"High supply (2.09), oversupply risk."
+Arunachal Pradesh,July,2023,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Tripura,April,2023,Increase Supply,"Low supply (0.47), demand exceeds supply."
+Nilgiri,October,2023,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Munnar,June,2023,Monitor,Balanced supply-demand (0.86).
+Arunachal Pradesh,July,2023,Increase Supply,"Low supply (0.45), demand exceeds supply."
+Tripura,May,2023,Monitor,Balanced supply-demand (1.18).
+Nilgiri,September,2023,Increase Supply,"Low supply (0.80), demand exceeds supply."
+Assam,August,2023,Monitor,Balanced supply-demand (0.86).
+Munnar,April,2023,Monitor,Balanced supply-demand (0.92).
+Terai,December,2023,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Assam,October,2023,Reduce Supply,"High supply (1.72), oversupply risk."
+Nilgiri,November,2023,Reduce Supply,"High supply (1.28), oversupply risk."
+Wayanad,December,2023,Reduce Supply,"High supply (1.28), oversupply risk."
+Nilgiri,June,2023,Increase Supply,"Low supply (0.33), demand exceeds supply."
+Nilgiri,June,2023,Increase Supply,"Low supply (0.62), demand exceeds supply."
+Darjeeling,April,2023,Increase Supply,"Low supply (0.54), demand exceeds supply."
+Terai,June,2023,Increase Supply,"Low supply (0.44), demand exceeds supply."
+Darjeeling,February,2023,Monitor,Balanced supply-demand (0.92).
+Terai,November,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Tripura,February,2023,Increase Supply,"Low supply (0.47), demand exceeds supply."
+Terai,June,2023,Reduce Supply,"High supply (2.23), oversupply risk."
+Nilgiri,February,2023,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Tripura,December,2023,Reduce Supply,"High supply (1.46), oversupply risk."
+Wayanad,May,2023,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Nilgiri,April,2023,Increase Supply,"Low supply (0.71), demand exceeds supply."
+Munnar,December,2023,Reduce Supply,"High supply (1.49), oversupply risk."
+Assam,December,2023,Reduce Supply,"High supply (1.78), oversupply risk."
+Wayanad,February,2023,Increase Supply,"Low supply (0.54), demand exceeds supply."
+Munnar,October,2023,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Munnar,March,2023,Reduce Supply,"High supply (1.56), oversupply risk."
+Tripura,October,2023,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Terai,September,2023,Reduce Supply,"High supply (2.32), oversupply risk."
+Dooars,December,2023,Monitor,Balanced supply-demand (0.97).
+Tripura,May,2023,Increase Supply,"Low supply (0.31), demand exceeds supply."
+Meghalaya,February,2023,Reduce Supply,"High supply (1.45), oversupply risk."
+Assam,June,2023,Reduce Supply,"High supply (2.18), oversupply risk."
+Terai,August,2023,Monitor,Balanced supply-demand (0.85).
+Nilgiri,March,2023,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Dooars,April,2023,Reduce Supply,"High supply (1.78), oversupply risk."
+Meghalaya,March,2023,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Nilgiri,September,2023,Reduce Supply,"High supply (2.44), oversupply risk."
+Terai,December,2023,Increase Supply,"Low supply (0.47), demand exceeds supply."
+Meghalaya,November,2023,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Arunachal Pradesh,March,2023,Increase Supply,"Low supply (0.41), demand exceeds supply."
+Terai,May,2023,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Nilgiri,December,2023,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Munnar,December,2023,Monitor,Balanced supply-demand (0.80).
+Nilgiri,May,2023,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Terai,November,2023,Monitor,Balanced supply-demand (0.90).
+Nilgiri,October,2023,Monitor,Balanced supply-demand (1.14).
+Darjeeling,September,2023,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Wayanad,August,2023,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Terai,November,2023,Reduce Supply,"High supply (1.59), oversupply risk."
+Dooars,November,2023,Monitor,Balanced supply-demand (0.84).
+Darjeeling,July,2023,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Wayanad,March,2023,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Darjeeling,August,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Munnar,September,2023,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Terai,December,2023,Reduce Supply,"High supply (1.84), oversupply risk."
+Assam,February,2023,Increase Supply,"Low supply (0.63), demand exceeds supply."
+Meghalaya,November,2023,Monitor,Balanced supply-demand (1.18).
+Terai,June,2023,Reduce Supply,"High supply (1.51), oversupply risk."
+Wayanad,February,2023,Monitor,Balanced supply-demand (1.10).
+Arunachal Pradesh,January,2023,Monitor,Balanced supply-demand (0.86).
+Nilgiri,July,2023,Reduce Supply,"High supply (1.33), oversupply risk."
+Assam,October,2023,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Assam,October,2023,Reduce Supply,"High supply (1.49), oversupply risk."
+Meghalaya,September,2023,Reduce Supply,"High supply (1.97), oversupply risk."
+Darjeeling,December,2023,Monitor,Balanced supply-demand (0.84).
+Meghalaya,March,2023,Increase Supply,"Low supply (0.33), demand exceeds supply."
+Meghalaya,August,2023,Monitor,Balanced supply-demand (0.84).
+Nilgiri,July,2023,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Assam,March,2023,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Tripura,January,2023,Reduce Supply,"High supply (2.09), oversupply risk."
+Terai,September,2023,Monitor,Balanced supply-demand (1.01).
+Terai,October,2023,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Assam,June,2023,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Munnar,November,2023,Monitor,Balanced supply-demand (1.00).
+Dooars,June,2023,Monitor,Balanced supply-demand (0.97).
+Arunachal Pradesh,August,2023,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Munnar,November,2023,Monitor,Balanced supply-demand (0.92).
+Tripura,February,2023,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Terai,February,2023,Monitor,Balanced supply-demand (1.10).
+Tripura,October,2023,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Darjeeling,March,2023,Reduce Supply,"High supply (1.31), oversupply risk."
+Darjeeling,March,2023,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Arunachal Pradesh,May,2023,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Darjeeling,June,2023,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Munnar,October,2023,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Assam,September,2023,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Meghalaya,November,2023,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Dooars,March,2023,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Meghalaya,April,2023,Monitor,Balanced supply-demand (0.88).
+Meghalaya,August,2023,Reduce Supply,"High supply (1.40), oversupply risk."
+Darjeeling,September,2023,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Dooars,August,2023,Reduce Supply,"High supply (2.10), oversupply risk."
+Munnar,July,2023,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Terai,January,2023,Increase Supply,"Low supply (0.60), demand exceeds supply."
+Terai,December,2023,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Dooars,June,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Darjeeling,December,2023,Monitor,Balanced supply-demand (0.85).
+Nilgiri,June,2023,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Arunachal Pradesh,May,2023,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Munnar,May,2023,Reduce Supply,"High supply (1.42), oversupply risk."
+Tripura,September,2023,Monitor,Balanced supply-demand (0.95).
+Munnar,December,2023,Monitor,Balanced supply-demand (0.83).
+Terai,June,2023,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Meghalaya,July,2023,Monitor,Balanced supply-demand (0.84).
+Darjeeling,May,2023,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Assam,December,2023,Monitor,Balanced supply-demand (0.95).
+Terai,October,2023,Reduce Supply,"High supply (1.83), oversupply risk."
+Wayanad,November,2023,Monitor,Balanced supply-demand (0.92).
+Wayanad,September,2023,Reduce Supply,"High supply (1.80), oversupply risk."
+Arunachal Pradesh,October,2023,Reduce Supply,"High supply (1.82), oversupply risk."
+Assam,December,2023,Reduce Supply,"High supply (2.92), oversupply risk."
+Assam,November,2023,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Wayanad,February,2023,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Assam,May,2023,Monitor,Balanced supply-demand (0.93).
+Dooars,June,2023,Reduce Supply,"High supply (1.23), oversupply risk."
+Terai,March,2023,Monitor,Balanced supply-demand (0.89).
+Tripura,September,2023,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Munnar,November,2023,Monitor,Balanced supply-demand (0.89).
+Assam,July,2023,Reduce Supply,"High supply (1.99), oversupply risk."
+Assam,December,2023,Monitor,Balanced supply-demand (1.13).
+Terai,March,2023,Monitor,Balanced supply-demand (0.86).
+Tripura,November,2023,Monitor,Balanced supply-demand (1.05).
+Darjeeling,February,2023,Increase Supply,"Low supply (0.71), demand exceeds supply."
+Meghalaya,February,2023,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Tripura,September,2023,Reduce Supply,"High supply (2.39), oversupply risk."
+Dooars,July,2023,Reduce Supply,"High supply (2.24), oversupply risk."
+Assam,December,2023,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Arunachal Pradesh,December,2023,Monitor,Balanced supply-demand (0.98).
+Dooars,February,2023,Increase Supply,"Low supply (0.60), demand exceeds supply."
+Wayanad,September,2023,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Arunachal Pradesh,December,2023,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Darjeeling,July,2023,Reduce Supply,"High supply (1.70), oversupply risk."
+Assam,March,2023,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Assam,July,2023,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Munnar,April,2023,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Meghalaya,September,2023,Increase Supply,"Low supply (0.60), demand exceeds supply."
+Terai,June,2023,Monitor,Balanced supply-demand (0.93).
+Darjeeling,January,2023,Reduce Supply,"High supply (1.66), oversupply risk."
+Darjeeling,July,2023,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Arunachal Pradesh,May,2023,Increase Supply,"Low supply (0.78), demand exceeds supply."
+Darjeeling,December,2023,Monitor,Balanced supply-demand (0.88).
+Tripura,February,2023,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Nilgiri,April,2023,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Terai,December,2023,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Darjeeling,February,2023,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Tripura,November,2023,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Darjeeling,May,2023,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Wayanad,July,2023,Reduce Supply,"High supply (2.16), oversupply risk."
+Darjeeling,July,2023,Monitor,Balanced supply-demand (0.80).
+Wayanad,March,2023,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Tripura,October,2023,Monitor,Balanced supply-demand (1.14).
+Arunachal Pradesh,March,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Assam,October,2023,Monitor,Balanced supply-demand (1.06).
+Tripura,February,2023,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Wayanad,May,2023,Monitor,Balanced supply-demand (0.87).
+Wayanad,November,2023,Increase Supply,"Low supply (0.30), demand exceeds supply."
+Tripura,July,2023,Monitor,Balanced supply-demand (0.95).
+Meghalaya,February,2023,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Wayanad,November,2023,Reduce Supply,"High supply (1.98), oversupply risk."
+Munnar,May,2023,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Darjeeling,November,2023,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Assam,May,2023,Increase Supply,"Low supply (0.59), demand exceeds supply."
+Terai,September,2023,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Tripura,July,2023,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Dooars,May,2023,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Darjeeling,February,2023,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Darjeeling,September,2023,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Darjeeling,October,2023,Increase Supply,"Low supply (0.30), demand exceeds supply."
+Munnar,April,2023,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Arunachal Pradesh,February,2023,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Meghalaya,April,2023,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Wayanad,May,2023,Increase Supply,"Low supply (0.69), demand exceeds supply."
+Darjeeling,October,2023,Increase Supply,"Low supply (0.58), demand exceeds supply."
+Munnar,May,2023,Reduce Supply,"High supply (1.43), oversupply risk."
+Nilgiri,August,2023,Increase Supply,"Low supply (0.68), demand exceeds supply."
+Arunachal Pradesh,September,2023,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Assam,February,2023,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Terai,October,2023,Monitor,Balanced supply-demand (0.99).
+Darjeeling,September,2023,Monitor,Balanced supply-demand (0.96).
+Wayanad,June,2023,Reduce Supply,"High supply (1.93), oversupply risk."
+Terai,August,2023,Monitor,Balanced supply-demand (0.95).
+Wayanad,September,2023,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Meghalaya,June,2023,Monitor,Balanced supply-demand (0.90).
+Munnar,March,2023,Increase Supply,"Low supply (0.80), demand exceeds supply."
+Arunachal Pradesh,September,2023,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Terai,September,2023,Increase Supply,"Low supply (0.29), demand exceeds supply."
+Dooars,December,2023,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Arunachal Pradesh,November,2023,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Terai,March,2023,Monitor,Balanced supply-demand (0.94).
+Dooars,December,2023,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Assam,October,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Assam,August,2023,Increase Supply,"Low supply (0.47), demand exceeds supply."
+Dooars,April,2023,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Tripura,December,2023,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Dooars,September,2023,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Meghalaya,May,2023,Reduce Supply,"High supply (1.62), oversupply risk."
+Munnar,October,2023,Increase Supply,"Low supply (0.61), demand exceeds supply."
+Darjeeling,September,2023,Reduce Supply,"High supply (2.14), oversupply risk."
+Assam,September,2023,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Darjeeling,May,2023,Increase Supply,"Low supply (0.40), demand exceeds supply."
+Wayanad,July,2023,Increase Supply,"Low supply (0.35), demand exceeds supply."
+Dooars,January,2023,Reduce Supply,"High supply (1.97), oversupply risk."
+Arunachal Pradesh,November,2023,Monitor,Balanced supply-demand (1.07).
+Munnar,June,2023,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Meghalaya,April,2023,Monitor,Balanced supply-demand (1.04).
+Arunachal Pradesh,October,2023,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Darjeeling,June,2023,Increase Supply,"Low supply (0.39), demand exceeds supply."
+Nilgiri,March,2023,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Assam,September,2023,Reduce Supply,"High supply (1.85), oversupply risk."
+Wayanad,September,2023,Increase Supply,"Low supply (0.44), demand exceeds supply."
+Wayanad,February,2023,Increase Supply,"Low supply (0.32), demand exceeds supply."
+Munnar,September,2023,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Munnar,June,2023,Monitor,Balanced supply-demand (0.93).
+Meghalaya,June,2023,Increase Supply,"Low supply (0.36), demand exceeds supply."
+Darjeeling,February,2023,Reduce Supply,"High supply (1.96), oversupply risk."
+Dooars,January,2023,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Assam,January,2023,Reduce Supply,"High supply (1.56), oversupply risk."
+Tripura,February,2023,Increase Supply,"Low supply (0.74), demand exceeds supply."
+Terai,May,2023,Monitor,Balanced supply-demand (0.82).
+Arunachal Pradesh,September,2023,Monitor,Balanced supply-demand (0.81).
+Terai,December,2023,Reduce Supply,"High supply (1.32), oversupply risk."
+Meghalaya,December,2023,Monitor,Balanced supply-demand (1.09).
+Terai,June,2023,Increase Supply,"Low supply (0.37), demand exceeds supply."
+Arunachal Pradesh,October,2023,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Nilgiri,March,2023,Monitor,Balanced supply-demand (0.84).
+Nilgiri,July,2023,Monitor,Balanced supply-demand (0.89).
+Dooars,August,2023,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Nilgiri,July,2023,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Munnar,January,2023,Monitor,Balanced supply-demand (0.87).
+Darjeeling,September,2023,Monitor,Balanced supply-demand (1.10).
+Assam,May,2023,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Meghalaya,April,2023,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Terai,March,2023,Reduce Supply,"High supply (1.70), oversupply risk."
+Dooars,December,2023,Monitor,Balanced supply-demand (0.84).
+Nilgiri,May,2023,Reduce Supply,"High supply (1.23), oversupply risk."
+Meghalaya,March,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Terai,June,2023,Increase Supply,"Low supply (0.77), demand exceeds supply."
+Dooars,March,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Darjeeling,November,2023,Increase Supply,"Low supply (0.73), demand exceeds supply."
+Assam,May,2023,Increase Supply,"Low supply (0.74), demand exceeds supply."
+Arunachal Pradesh,November,2023,Reduce Supply,"High supply (1.33), oversupply risk."
+Munnar,August,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Terai,April,2023,Monitor,Balanced supply-demand (0.93).
+Terai,June,2023,Monitor,Balanced supply-demand (1.02).
+Terai,September,2023,Increase Supply,"Low supply (0.62), demand exceeds supply."
+Nilgiri,April,2023,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Terai,December,2023,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Arunachal Pradesh,March,2023,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Nilgiri,January,2023,Monitor,Balanced supply-demand (0.88).
+Darjeeling,October,2023,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Tripura,June,2023,Reduce Supply,"High supply (1.91), oversupply risk."
+Terai,January,2023,Reduce Supply,"High supply (1.30), oversupply risk."
+Meghalaya,November,2023,Monitor,Balanced supply-demand (1.06).
+Munnar,October,2023,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Darjeeling,July,2023,Monitor,Balanced supply-demand (0.92).
+Terai,August,2023,Increase Supply,"Low supply (0.36), demand exceeds supply."
+Nilgiri,February,2023,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Wayanad,November,2023,Increase Supply,"Low supply (0.57), demand exceeds supply."
+Meghalaya,September,2023,Reduce Supply,"High supply (2.00), oversupply risk."
+Terai,April,2023,Reduce Supply,"High supply (1.27), oversupply risk."
+Darjeeling,March,2023,Monitor,Balanced supply-demand (0.87).
+Arunachal Pradesh,May,2023,Reduce Supply,"High supply (1.52), oversupply risk."
+Darjeeling,February,2023,Reduce Supply,"High supply (1.53), oversupply risk."
+Dooars,May,2023,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Arunachal Pradesh,January,2023,Monitor,Balanced supply-demand (0.93).
+Terai,May,2023,Increase Supply,"Low supply (0.39), demand exceeds supply."
+Tripura,January,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Tripura,February,2023,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Arunachal Pradesh,March,2023,Increase Supply,"Low supply (0.43), demand exceeds supply."
+Darjeeling,January,2023,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Darjeeling,April,2023,Increase Supply,"Low supply (0.70), demand exceeds supply."
+Dooars,April,2023,Increase Supply,"Low supply (0.72), demand exceeds supply."
+Munnar,June,2023,Monitor,Balanced supply-demand (1.00).
+Nilgiri,May,2023,Increase Supply,"Low supply (0.42), demand exceeds supply."
+Meghalaya,April,2023,Monitor,Balanced supply-demand (0.91).
+Dooars,November,2023,Increase Supply,"Low supply (0.64), demand exceeds supply."
+Darjeeling,October,2023,Increase Supply,"Low supply (0.52), demand exceeds supply."
+Arunachal Pradesh,October,2023,Reduce Supply,"High supply (1.72), oversupply risk."
+Wayanad,February,2023,Increase Supply,"Low supply (0.67), demand exceeds supply."
+Wayanad,March,2023,Monitor,Balanced supply-demand (1.11).
+Arunachal Pradesh,July,2023,Reduce Supply,"High supply (1.71), oversupply risk."
+Terai,November,2023,Reduce Supply,"High supply (1.90), oversupply risk."
+Dooars,May,2023,Increase Supply,"Low supply (0.75), demand exceeds supply."
+Meghalaya,August,2023,Reduce Supply,"High supply (1.43), oversupply risk."
+Meghalaya,July,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Munnar,March,2023,Increase Supply,"Low supply (0.51), demand exceeds supply."
+Arunachal Pradesh,February,2023,Increase Supply,"Low supply (0.38), demand exceeds supply."
+Munnar,October,2023,Monitor,Balanced supply-demand (1.07).
+Assam,November,2023,Increase Supply,"Low supply (0.49), demand exceeds supply."
+Terai,April,2023,Increase Supply,"Low supply (0.55), demand exceeds supply."
+Munnar,June,2023,Increase Supply,"Low supply (0.56), demand exceeds supply."
+Wayanad,February,2023,Monitor,Balanced supply-demand (0.96).
+Dooars,March,2023,Increase Supply,"Low supply (0.65), demand exceeds supply."
+Meghalaya,April,2023,Increase Supply,"Low supply (0.48), demand exceeds supply."
+Arunachal Pradesh,August,2023,Increase Supply,"Low supply (0.50), demand exceeds supply."
+Arunachal Pradesh,July,2023,Reduce Supply,"High supply (1.79), oversupply risk."
+Nilgiri,September,2023,Reduce Supply,"High supply (1.45), oversupply risk."
+Wayanad,August,2023,Increase Supply,"Low supply (0.66), demand exceeds supply."
+Dooars,February,2023,Monitor,Balanced supply-demand (0.83).
+Meghalaya,June,2023,Increase Supply,"Low supply (0.60), demand exceeds supply."
+Munnar,April,2023,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Tripura,August,2023,Increase Supply,"Low supply (0.79), demand exceeds supply."
+Tripura,March,2023,Reduce Supply,"High supply (1.51), oversupply risk."
+Nilgiri,December,2023,Increase Supply,"Low supply (0.53), demand exceeds supply."
+Assam,November,2023,Reduce Supply,"High supply (1.45), oversupply risk."
+Wayanad,October,2023,Increase Supply,"Low supply (0.46), demand exceeds supply."
+Nilgiri,October,2023,Increase Supply,"Low supply (0.36), demand exceeds supply."
+Meghalaya,June,2023,Increase Supply,"Low supply (0.76), demand exceeds supply."
+Assam,May,2023,Monitor,Balanced supply-demand (1.02).
+Terai,August,2023,Reduce Supply,"High supply (2.24), oversupply risk."
+Arunachal Pradesh,April,2023,Monitor,Balanced supply-demand (1.12).
